@@ -1,3 +1,7 @@
+---
+title: "节点全部超时怎么办？Clash / Shadowrocket / v2rayN / NekoBox 全部 timeout 排查"
+description: "客户端里所有节点都显示 timeout、failed 或 error，一个都连不上。本文按卡点分层排查：先分清是本机还是机场，再处理「流量能用 Wi-Fi 不能用」「官网状态正常我这里却全超时」「换过网络改过 DNS 仍然超时」，附 Clash Verge、Shadowrocket、v2rayN…"
+---
 # 节点全部超时怎么办？Clash / Shadowrocket / v2rayN / NekoBox 全部 timeout 排查
 
 > 客户端里所有节点都显示 timeout、failed 或 error，一个都连不上。本文按卡点分层排查：先分清是本机还是机场，再处理「流量能用 Wi-Fi 不能用」「官网状态正常我这里却全超时」「换过网络改过 DNS 仍然超时」，附 Clash Verge、Shadowrocket、v2rayN、NekoBox 各自的专属检查项。

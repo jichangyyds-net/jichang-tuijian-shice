@@ -1,3 +1,7 @@
+---
+title: "sing-box 机场推荐"
+description: "sing-box 与 Hiddify 用户如何选择机场？本页说明 Hysteria2、TUIC、VLESS Reality 等新协议的兼容要求、流量倍率差异，以及为什么不该用来路不明的第三方订阅转换服务。"
+---
 # sing-box 机场推荐
 
 > sing-box 机场推荐 2026｜支持 Hysteria2 / TUIC 的机场。数据快照 2026-08-23。

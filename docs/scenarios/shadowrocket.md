@@ -1,3 +1,7 @@
+---
+title: "Shadowrocket 机场推荐"
+description: "小火箭（Shadowrocket）用户如何选择机场订阅？本页说明 iOS 端的订阅导入方式、各家订阅格式与 Shadowrocket 的协议兼容情况、后台保活与耗电的取舍，以及为什么有些订阅在小火箭里解析不出全部节点。附在营机场清单与可用优惠码。"
+---
 # Shadowrocket 机场推荐
 
 > Shadowrocket 机场推荐 2026｜小火箭订阅怎么选（iOS）。数据快照 2026-08-23。

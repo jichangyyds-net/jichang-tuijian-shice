@@ -1,3 +1,7 @@
+---
+title: "v2rayN 机场推荐"
+description: "Windows 端 v2rayN 与安卓端 v2rayNG 该怎么选机场：订阅链接怎么导入、VMess / VLESS / Hysteria2 协议的兼容情况，以及哪些机场的订阅格式对 v2rayN 更友好。附在营品牌与优惠码。"
+---
 # v2rayN 机场推荐
 
 > v2rayN 机场推荐 2026｜Windows 用户适合哪些机场订阅。数据快照 2026-08-23。

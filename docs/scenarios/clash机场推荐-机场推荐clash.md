@@ -1,4 +1,8 @@
-# Clash 机场推荐
+---
+title: "机场推荐 Clash：能导入 Clash 订阅的机场怎么选"
+description: "Clash / Clash Verge / Clash Meta（Mihomo）用户怎么选机场？本页说明各家的订阅格式要求、为什么优先选提供 Clash 专属订阅的机场、节点命名带不带地区与倍率对分流的影响，以及规则分流与策略组的常见坑。附支持 Clash 订阅的在营机场与优惠码。"
+---
+# 机场推荐 Clash：能导入 Clash 订阅的机场怎么选
 
 > Clash 机场推荐 2026｜适合 Clash Verge / Meta 的订阅服务。数据快照 2026-08-23。
 
