@@ -1,7 +1,7 @@
 # 极速Cloud —— 价格、套餐与实测数据
 
 > 极速Cloud的完整档案。数据快照 2026-08-23，**以官网当前信息为准**。
-> 官网入口与下单请走 [机场YYDS 的 极速Cloud 档案页](https://www.jichangyyds.com/brands/jisucloud/)。
+> 官网入口与下单请走 [机场榜 的 极速Cloud 档案页](https://jcyyds.com/brands/jisucloud/)。
 
 ## 基本信息
 
@@ -30,4 +30,4 @@
 
 ---
 
-[← 返回主清单](../../README.md) ｜ [极速Cloud 完整档案页](https://www.jichangyyds.com/brands/jisucloud/)
+[← 返回主清单](../../README.md) ｜ [极速Cloud 完整档案页](https://jcyyds.com/brands/jisucloud/)

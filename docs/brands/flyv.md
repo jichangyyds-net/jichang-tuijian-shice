@@ -1,7 +1,7 @@
 # FlyV —— 价格、套餐与实测数据
 
 > FlyV的完整档案。数据快照 2026-08-23，**以官网当前信息为准**。
-> 官网入口与下单请走 [机场YYDS 的 FlyV 档案页](https://www.jichangyyds.com/brands/flyv/)。
+> 官网入口与下单请走 [机场榜 的 FlyV 档案页](https://jcyyds.com/brands/flyv/)。
 
 ## 基本信息
 
@@ -14,4 +14,4 @@
 
 ---
 
-[← 返回主清单](../../README.md) ｜ [FlyV 完整档案页](https://www.jichangyyds.com/brands/flyv/)
+[← 返回主清单](../../README.md) ｜ [FlyV 完整档案页](https://jcyyds.com/brands/flyv/)

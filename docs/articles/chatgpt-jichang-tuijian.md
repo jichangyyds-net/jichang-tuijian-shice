@@ -2,7 +2,7 @@
 
 > AI 工具的风控比流媒体严得多，关键不在速度而在落地 IP 的类型和稳定性。本文讲清原生 IP、机房 IP、住宅 IP 的区别，为什么频繁切节点反而更容易触发风控，以及 ChatGPT 机场推荐里真正该看的指标。
 >
-> 发布 2026-07-21｜原文：[https://www.jichangyyds.com/blog/chatgpt-jichang-tuijian/](https://www.jichangyyds.com/blog/chatgpt-jichang-tuijian/)
+> 发布 2026-07-21｜原文：[https://jcyyds.com/blog/chatgpt-jichang-tuijian/](https://jcyyds.com/blog/chatgpt-jichang-tuijian/)
 
 ---
 
@@ -48,7 +48,7 @@ AI 服务面对的是另一套威胁模型：**批量注册薅额度、API 滥�
 3. 账号注册地区、日常使用地区、支付方式地区**尽量保持一致**。各地区节点的适用场景见[节点地区怎么选](机场节点地区怎么选.md)。
 4. 如果某个节点开始不稳定，换一个之后同样固定下来，而不是来回横跳。
 
-规则怎么配置见[订阅导入教程](https://www.jichangyyds.com/guides/)。
+规则怎么配置见[订阅导入教程](https://jcyyds.com/guides/)。
 
 ## 机场能用 Claude 吗
 
@@ -68,7 +68,7 @@ AI 服务面对的是另一套威胁模型：**批量注册薅额度、API 滥�
 
 轻度使用（每天问几个问题）：只要 IP 干净，普通中转完全够。AI 对话不吃带宽，专线在这个场景下带来的提升有限。
 
-重度使用（长时间对话、跑 API、做开发）：这时候**连接稳定性**开始重要——会话中途掉线会丢上下文，API 调用超时会直接失败。这种场景下[专线机场](https://www.jichangyyds.com/topics/dedicated-line/)的低并发原生 IP 节点确实值这个钱。线路架构的差别见 [IPLC、IEPL 与中转的区别](iplc-iepl-zhongzhuan-zhilian.md)。
+重度使用（长时间对话、跑 API、做开发）：这时候**连接稳定性**开始重要——会话中途掉线会丢上下文，API 调用超时会直接失败。这种场景下[专线机场](https://jcyyds.com/topics/dedicated-line/)的低并发原生 IP 节点确实值这个钱。线路架构的差别见 [IPLC、IEPL 与中转的区别](iplc-iepl-zhongzhuan-zhilian.md)。
 
 另外提醒一句：**共享账号、批量注册、用别人给的 API key** 这类行为本身就是风控要打击的对象，换多好的机场也救不了。这是账号问题，不是线路问题。
 
@@ -81,13 +81,13 @@ AI 服务面对的是另一套威胁模型：**批量注册薅额度、API 滥�
 | 页面能开但发消息失败 | 分流规则漏了某个 API 域名 |
 | 忽好忽坏 | 节点在自动切换，或该节点被多人共用 |
 
-第三种最常见也最容易修——去[报错排查页](https://www.jichangyyds.com/troubleshoot/)对照一下规则配置，往往不用换机场。
+第三种最常见也最容易修——去[报错排查页](https://jcyyds.com/troubleshoot/)对照一下规则配置，往往不用换机场。
 
 ## 怎么选
 
-按顺序做三件事：在 [ChatGPT 机场推荐专题](https://www.jichangyyds.com/topics/chatgpt/)里筛出明确提供 AI 优化节点的几家，去[机场排行榜](https://www.jichangyyds.com/rank/)看它们的整体口碑和线路档位，然后**买月付实测**——AI 可用性是所有指标里变化最快的，别人上个月的测试结果对你没有参考价值。
+按顺序做三件事：在 [ChatGPT 机场推荐专题](https://jcyyds.com/topics/chatgpt/)里筛出明确提供 AI 优化节点的几家，去[机场排行榜](https://jcyyds.com/rank/)看它们的整体口碑和线路档位，然后**买月付实测**——AI 可用性是所有指标里变化最快的，别人上个月的测试结果对你没有参考价值。
 
-付款前照例对照[已跑路机场名单](https://www.jichangyyds.com/scam/)。AI 优化节点普遍卖得贵，年付一旦踩雷损失也更大。
+付款前照例对照[已跑路机场名单](https://jcyyds.com/scam/)。AI 优化节点普遍卖得贵，年付一旦踩雷损失也更大。
 
 ---
 

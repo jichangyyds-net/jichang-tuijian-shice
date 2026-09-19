@@ -32,22 +32,22 @@ TB 按 1000GB 折算。例：月付 ¥20、150GB / 月 → ¥20 ÷ 150 = ¥0.133
 
 | 服务商 | 套餐 | 流量 | 月付 | 每 GB 月成本 | 价格核对日期 |
 | --- | --- | --- | ---: | ---: | --- |
-| [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | 无界 Infinity | 1800GB / 月 | ¥130 | ¥0.072 | 2026-08-03 |
-| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | 极致版 | 1.2TB / 月 | ¥95 | ¥0.079 | 2026-07-24 |
-| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | 尊享版 | 600GB / 月 | ¥55 | ¥0.092 | 2026-07-24 |
-| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | 舒享版 | 350GB / 月 | ¥35 | ¥0.100 | 2026-07-24 |
-| [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | 凌云 Soar | 830GB / 月 | ¥90 | ¥0.108 | 2026-08-03 |
-| [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | 跃云 Leap | 330GB / 月 | ¥40 | ¥0.121 | 2026-08-03 |
-| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | 轻享版 | 150GB / 月 | ¥20 | ¥0.133 | 2026-07-24 |
-| [闪跃](https://www.jichangyyds.com/brands/shanyue/) | 跃迁 Warp | 1.0TB / 月 | ¥134 | ¥0.134 | 2026-07-30 |
-| [闪跃](https://www.jichangyyds.com/brands/shanyue/) | 瞬移 Teleport | 600GB / 月 | ¥84 | ¥0.140 | 2026-07-30 |
-| [闪跃](https://www.jichangyyds.com/brands/shanyue/) | 飞跃 Leap | 300GB / 月 | ¥44 | ¥0.147 | 2026-07-30 |
-| [闪跃](https://www.jichangyyds.com/brands/shanyue/) | 闪动 Flicker | 150GB / 月 | ¥24 | ¥0.160 | 2026-07-30 |
-| [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | 轻云 Lite | 120GB / 月 | ¥20 | ¥0.167 | 2026-08-03 |
-| [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | 寰宇旗舰版 | 1024GB / 月 | ¥200 | ¥0.195 | 2026-07-30 |
-| [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | 星系专业版 | 500GB / 月 | ¥100 | ¥0.200 | 2026-07-30 |
-| [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | 行星基础版 | 120GB / 月 | ¥25 | ¥0.208 | 2026-07-30 |
-| [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | 恒星标准版 | 240GB / 月 | ¥50 | ¥0.208 | 2026-07-30 |
+| [跨界云](https://jcyyds.com/brands/kuajieyun/) | 无界 Infinity | 1800GB / 月 | ¥130 | ¥0.072 | 2026-08-03 |
+| [一翻云](https://jcyyds.com/brands/yifanyun/) | 极致版 | 1.2TB / 月 | ¥95 | ¥0.079 | 2026-07-24 |
+| [一翻云](https://jcyyds.com/brands/yifanyun/) | 尊享版 | 600GB / 月 | ¥55 | ¥0.092 | 2026-07-24 |
+| [一翻云](https://jcyyds.com/brands/yifanyun/) | 舒享版 | 350GB / 月 | ¥35 | ¥0.100 | 2026-07-24 |
+| [跨界云](https://jcyyds.com/brands/kuajieyun/) | 凌云 Soar | 830GB / 月 | ¥90 | ¥0.108 | 2026-08-03 |
+| [跨界云](https://jcyyds.com/brands/kuajieyun/) | 跃云 Leap | 330GB / 月 | ¥40 | ¥0.121 | 2026-08-03 |
+| [一翻云](https://jcyyds.com/brands/yifanyun/) | 轻享版 | 150GB / 月 | ¥20 | ¥0.133 | 2026-07-24 |
+| [闪跃](https://jcyyds.com/brands/shanyue/) | 跃迁 Warp | 1.0TB / 月 | ¥134 | ¥0.134 | 2026-07-30 |
+| [闪跃](https://jcyyds.com/brands/shanyue/) | 瞬移 Teleport | 600GB / 月 | ¥84 | ¥0.140 | 2026-07-30 |
+| [闪跃](https://jcyyds.com/brands/shanyue/) | 飞跃 Leap | 300GB / 月 | ¥44 | ¥0.147 | 2026-07-30 |
+| [闪跃](https://jcyyds.com/brands/shanyue/) | 闪动 Flicker | 150GB / 月 | ¥24 | ¥0.160 | 2026-07-30 |
+| [跨界云](https://jcyyds.com/brands/kuajieyun/) | 轻云 Lite | 120GB / 月 | ¥20 | ¥0.167 | 2026-08-03 |
+| [宇宙云](https://jcyyds.com/brands/yuzhouyun/) | 寰宇旗舰版 | 1024GB / 月 | ¥200 | ¥0.195 | 2026-07-30 |
+| [宇宙云](https://jcyyds.com/brands/yuzhouyun/) | 星系专业版 | 500GB / 月 | ¥100 | ¥0.200 | 2026-07-30 |
+| [宇宙云](https://jcyyds.com/brands/yuzhouyun/) | 行星基础版 | 120GB / 月 | ¥25 | ¥0.208 | 2026-07-30 |
+| [宇宙云](https://jcyyds.com/brands/yuzhouyun/) | 恒星标准版 | 240GB / 月 | ¥50 | ¥0.208 | 2026-07-30 |
 
 读表注意：
 
@@ -60,9 +60,9 @@ TB 按 1000GB 折算。例：月付 ¥20、150GB / 月 → ¥20 ÷ 150 = ¥0.133
 
 月付最低价只反映入门档的门槛，不反映单价。低价档往往流量少、共享带宽，详见 [便宜机场推荐：低价套餐的五个取舍](便宜机场推荐-低价套餐的五个取舍.md)。
 
-完整版与更多品牌：[便宜机场推荐](https://www.jichangyyds.com/topics/cheap/)
+完整版与更多品牌：[便宜机场推荐](https://jcyyds.com/topics/cheap/)
 
-数据来源：机场YYDS 中央数据库（本站晚高峰实测与服务商公开套餐页核对），本页生成于 2026-09-15。
+数据来源：机场榜 中央数据库（本站晚高峰实测与服务商公开套餐页核对），本页生成于 2026-09-15。
 
 ---
 

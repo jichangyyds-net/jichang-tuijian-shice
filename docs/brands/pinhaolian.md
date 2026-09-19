@@ -1,7 +1,7 @@
 # 拼好连 —— 价格、套餐与实测数据
 
 > 拼好连的完整档案。数据快照 2026-08-23，**以官网当前信息为准**。
-> 官网入口与下单请走 [机场YYDS 的 拼好连 档案页](https://www.jichangyyds.com/brands/pinhaolian/)。
+> 官网入口与下单请走 [机场榜 的 拼好连 档案页](https://jcyyds.com/brands/pinhaolian/)。
 
 ## 基本信息
 
@@ -30,4 +30,4 @@
 
 ---
 
-[← 返回主清单](../../README.md) ｜ [拼好连 完整档案页](https://www.jichangyyds.com/brands/pinhaolian/)
+[← 返回主清单](../../README.md) ｜ [拼好连 完整档案页](https://jcyyds.com/brands/pinhaolian/)

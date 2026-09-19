@@ -2,7 +2,7 @@
 
 > 同样是「香港节点」，为什么有的机场卖 ¥10、有的卖 ¥40？差别几乎全在线路架构上。本文拆解 IPLC、IEPL、中转、直连四种架构的技术差异与成本结构，讲清 IPLC 和 IEPL 的实际区别、为什么专线晚高峰不塌、怎么识别被包装成专线的中转，以及普通用户到底有没有必要为专线多付这笔钱。
 >
-> 发布 2026-06-24｜原文：[https://www.jichangyyds.com/blog/iplc-iepl-zhongzhuan-zhilian/](https://www.jichangyyds.com/blog/iplc-iepl-zhongzhuan-zhilian/)
+> 发布 2026-06-24｜原文：[https://jcyyds.com/blog/iplc-iepl-zhongzhuan-zhilian/](https://jcyyds.com/blog/iplc-iepl-zhongzhuan-zhilian/)
 
 ---
 
@@ -42,7 +42,7 @@
 2. 工作日 21:00 再测同一节点，连续测三天。
 3. 算衰减比例。
 
-**如果晚高峰速度掉到白天的一半以下，那基本可以确定不是专线**，无论它标的是 IEPL 还是 IPLC。完整的测试口径见[晚高峰稳定机场怎么选](https://www.jichangyyds.com/topics/peak-hour/)。
+**如果晚高峰速度掉到白天的一半以下，那基本可以确定不是专线**，无论它标的是 IEPL 还是 IPLC。完整的测试口径见[晚高峰稳定机场怎么选](https://jcyyds.com/topics/peak-hour/)。
 
 ## 那 CN2、BGP 又是什么
 
@@ -63,13 +63,13 @@
 - 主要在白天使用
 - 刷网页、看 YouTube 1080P、偶尔用一下 AI 工具
 
-那么 [¥14–24 的主流性价比档](https://www.jichangyyds.com/topics/stable/)完全够用，多花的钱买不到你能感知的体验提升。
+那么 [¥14–24 的主流性价比档](https://jcyyds.com/topics/stable/)完全够用，多花的钱买不到你能感知的体验提升。
 
-反过来，下面这几种情况建议直接上[专线档](https://www.jichangyyds.com/topics/dedicated-line/)：
+反过来，下面这几种情况建议直接上[专线档](https://jcyyds.com/topics/dedicated-line/)：
 
 - **主要使用时间就是晚上 20:00 之后**，而且对卡顿零容忍
 - **跨境电商、外贸、远程办公**，需要长时间保持连接稳定，掉线的机会成本远高于月费差价
-- **重度使用 AI 工具**，需要低并发的原生 IP 节点（AI 服务对 IP 纯净度的要求比流媒体苛刻得多，详见 [ChatGPT 机场推荐](https://www.jichangyyds.com/topics/chatgpt/)）
+- **重度使用 AI 工具**，需要低并发的原生 IP 节点（AI 服务对 IP 纯净度的要求比流媒体苛刻得多，详见 [ChatGPT 机场推荐](https://jcyyds.com/topics/chatgpt/)）
 
 ## 一个容易被忽略的点
 
@@ -77,7 +77,7 @@
 
 价格能筛掉一部分——¥10/月的绝无可能是真专线，因为带宽成本摆在那里。但反过来不成立：卖 ¥30 的也可能只是包装过的中转。
 
-所以正确顺序是：先用价格把候选缩小到[专线档位](https://www.jichangyyds.com/topics/dedicated-line/)，再用上面的晚高峰衰减测试验证，最后才决定要不要续长期套餐。别在验证之前买年付——本站收录的[已跑路名单](https://www.jichangyyds.com/scam/)里，不乏当初主打「全 IPLC 专线」的品牌。
+所以正确顺序是：先用价格把候选缩小到[专线档位](https://jcyyds.com/topics/dedicated-line/)，再用上面的晚高峰衰减测试验证，最后才决定要不要续长期套餐。别在验证之前买年付——本站收录的[已跑路名单](https://jcyyds.com/scam/)里，不乏当初主打「全 IPLC 专线」的品牌。
 
 ---
 

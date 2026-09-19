@@ -1,7 +1,7 @@
 # 跨界云 —— 价格、套餐与实测数据
 
 > 跨界云的完整档案。数据快照 2026-08-23，**以官网当前信息为准**。
-> 官网入口与下单请走 [机场YYDS 的 跨界云 档案页](https://www.jichangyyds.com/brands/kuajieyun/)。
+> 官网入口与下单请走 [机场榜 的 跨界云 档案页](https://jcyyds.com/brands/kuajieyun/)。
 
 ## 基本信息
 
@@ -49,4 +49,4 @@
 
 ---
 
-[← 返回主清单](../../README.md) ｜ [跨界云 完整档案页](https://www.jichangyyds.com/brands/kuajieyun/)
+[← 返回主清单](../../README.md) ｜ [跨界云 完整档案页](https://jcyyds.com/brands/kuajieyun/)

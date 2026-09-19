@@ -2,7 +2,7 @@
 
 > 解锁不是一个开关，而是分等级的。本文讲清全解锁和仅自制剧的区别、为什么该按你想看的内容选落地地区而不是按速度、4K 需要多少带宽，以及为什么 Netflix 机场推荐这类清单永远会过期。另说明为什么同一家机场不同地区节点结果不同、4K 播放对带宽的实际要求，以及下单前该向客服确认哪几项，避免买完才发现看不了。
 >
-> 发布 2026-07-22｜原文：[https://www.jichangyyds.com/blog/liumeiti-jiesuo-jichang/](https://www.jichangyyds.com/blog/liumeiti-jiesuo-jichang/)
+> 发布 2026-07-22｜原文：[https://jcyyds.com/blog/liumeiti-jiesuo-jichang/](https://jcyyds.com/blog/liumeiti-jiesuo-jichang/)
 
 ---
 
@@ -71,15 +71,15 @@ TikTok 的地区判定不只看 IP，还看**手机 SIM 卡、系统语言、时
 
 **如果看剧是你的主要用途，不一定非要买专线。**
 
-专线解决的是延迟稳定和不被限速，但看视频对延迟不敏感。一条带宽充足的优质中转，在观影体验上未必输给专线，价格却低一大截。真正需要考虑[专线档](https://www.jichangyyds.com/topics/dedicated-line/)的是「晚上八点后必须看 4K 且零容忍缓冲」这种硬需求。
+专线解决的是延迟稳定和不被限速，但看视频对延迟不敏感。一条带宽充足的优质中转，在观影体验上未必输给专线，价格却低一大截。真正需要考虑[专线档](https://jcyyds.com/topics/dedicated-line/)的是「晚上八点后必须看 4K 且零容忍缓冲」这种硬需求。
 
-对多数人来说，[稳定机场档位](https://www.jichangyyds.com/topics/stable/)加上正确的地区选择，比盲目加钱有效得多。预算实在紧的话，[便宜机场推荐](https://www.jichangyyds.com/topics/cheap/)里也有能看 1080P 的选择，只是要接受晚高峰的波动。
+对多数人来说，[稳定机场档位](https://jcyyds.com/topics/stable/)加上正确的地区选择，比盲目加钱有效得多。预算实在紧的话，[便宜机场推荐](https://jcyyds.com/topics/cheap/)里也有能看 1080P 的选择，只是要接受晚高峰的波动。
 
 ## 怎么开始
 
-去[流媒体解锁机场专题](https://www.jichangyyds.com/topics/streaming/)按你要的地区筛，再到[机场排行榜](https://www.jichangyyds.com/rank/)交叉看整体口碑。
+去[流媒体解锁机场专题](https://jcyyds.com/topics/streaming/)按你要的地区筛，再到[机场排行榜](https://jcyyds.com/rank/)交叉看整体口碑。
 
-**务必用月付先试一个月**，并在试用期内亲自验证你想看的那个平台、那个地区、那部剧——别人的结论替代不了这一步。付款前对照[已跑路机场名单](https://www.jichangyyds.com/scam/)，主打解锁的机场里，营销猛而运营短命的比例并不低。
+**务必用月付先试一个月**，并在试用期内亲自验证你想看的那个平台、那个地区、那部剧——别人的结论替代不了这一步。付款前对照[已跑路机场名单](https://jcyyds.com/scam/)，主打解锁的机场里，营销猛而运营短命的比例并不低。
 
 ---
 

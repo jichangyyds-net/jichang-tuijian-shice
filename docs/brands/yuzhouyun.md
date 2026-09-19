@@ -1,7 +1,7 @@
 # 宇宙云 —— 价格、套餐与实测数据
 
 > 宇宙云的完整档案。数据快照 2026-08-23，**以官网当前信息为准**。
-> 官网入口与下单请走 [机场YYDS 的 宇宙云 档案页](https://www.jichangyyds.com/brands/yuzhouyun/)。
+> 官网入口与下单请走 [机场榜 的 宇宙云 档案页](https://jcyyds.com/brands/yuzhouyun/)。
 
 ## 基本信息
 
@@ -72,4 +72,4 @@
 
 ---
 
-[← 返回主清单](../../README.md) ｜ [宇宙云 完整档案页](https://www.jichangyyds.com/brands/yuzhouyun/)
+[← 返回主清单](../../README.md) ｜ [宇宙云 完整档案页](https://jcyyds.com/brands/yuzhouyun/)

@@ -2,7 +2,7 @@
 
 > 机场是中文圈对代理节点订阅服务的俗称，和航空没有任何关系。本文讲清机场与传统 VPN 在架构和计费上的实际差异、为什么民间又叫它梯子、订阅链接到底是个什么东西、买了之后还需要装什么客户端，以及新手第一次该从哪个价位入手才不容易踩坑。另说明中转与 IPLC/IEPL 专线的区别、订阅链接的作用，以及买之前该先确认哪几件事。
 >
-> 发布 2026-06-18｜原文：[https://www.jichangyyds.com/blog/jichang-shi-shenme/](https://www.jichangyyds.com/blog/jichang-shi-shenme/)
+> 发布 2026-06-18｜原文：[https://jcyyds.com/blog/jichang-shi-shenme/](https://jcyyds.com/blog/jichang-shi-shenme/)
 
 ---
 
@@ -20,7 +20,7 @@
 
 很多人把机场和 VPN 混为一谈，但两者的产品形态差别很大。
 
-**第一，客户端不同。** 传统商业 VPN 是一个封闭的自研客户端，装上、登录、点连接，你不知道也不需要知道底下用了什么协议。机场只给订阅链接，客户端要你自己选，主流的有 Clash 系、Shadowrocket、v2rayN、sing-box——具体导入步骤见[订阅导入教程](https://www.jichangyyds.com/guides/)。
+**第一，客户端不同。** 传统商业 VPN 是一个封闭的自研客户端，装上、登录、点连接，你不知道也不需要知道底下用了什么协议。机场只给订阅链接，客户端要你自己选，主流的有 Clash 系、Shadowrocket、v2rayN、sing-box——具体导入步骤见[订阅导入教程](https://jcyyds.com/guides/)。
 
 **第二，可控性不同。** VPN 通常只让你选国家，节点是黑盒。机场把每个节点都摊开给你：地区、线路类型、流量倍率通常都标在节点名里，你可以针对不同用途手动切换，也可以用规则分流让国内流量直连、国外流量走代理。
 
@@ -30,7 +30,7 @@
 
 **梯子和机场基本是同一件事的两种叫法。** 严格来说「梯子」泛指一切能实现跨境访问的工具（包括自建服务器、商业 VPN、机场），而「机场」特指提供订阅服务的商家。日常交流里两个词经常混用，不必太较真。
 
-搜索行为上倒是有区别：搜「[梯子推荐](https://www.jichangyyds.com/topics/tizi/)」的用户往往还处在了解阶段，搜「机场推荐」的通常已经知道自己要买订阅服务了。
+搜索行为上倒是有区别：搜「[梯子推荐](https://jcyyds.com/topics/tizi/)」的用户往往还处在了解阶段，搜「机场推荐」的通常已经知道自己要买订阅服务了。
 
 ## 订阅链接到底是什么
 
@@ -54,17 +54,17 @@
 
 建议第一次买就按下面三步走：
 
-1. **先定预算档位。** 不确定就从[便宜机场推荐](https://www.jichangyyds.com/topics/cheap/)里挑一家月付试试，成本可控。
-2. **按用途验证。** 只看 YouTube 刷网页的话低价档够用；要用 ChatGPT 得看[原生 IP](https://www.jichangyyds.com/topics/chatgpt/)；看 Netflix 得确认[解锁地区](https://www.jichangyyds.com/topics/streaming/)。
+1. **先定预算档位。** 不确定就从[便宜机场推荐](https://jcyyds.com/topics/cheap/)里挑一家月付试试，成本可控。
+2. **按用途验证。** 只看 YouTube 刷网页的话低价档够用；要用 ChatGPT 得看[原生 IP](https://jcyyds.com/topics/chatgpt/)；看 Netflix 得确认[解锁地区](https://jcyyds.com/topics/streaming/)。
 3. **月付跑一个晚高峰再续。** 工作日 21:00 左右连续测三天，这才是你的真实体验下限。白天的测速数据在这个行业里没有参考价值。
 
 ## 最后提醒一句
 
-这个行业的品牌生命周期普遍不长。我们收录的品牌里有相当一部分已经停止运营——完整名单和跑路前兆的识别方法见[已跑路机场名单](https://www.jichangyyds.com/scam/)。
+这个行业的品牌生命周期普遍不长。我们收录的品牌里有相当一部分已经停止运营——完整名单和跑路前兆的识别方法见[已跑路机场名单](https://jcyyds.com/scam/)。
 
 所以有个原则值得记住：**新品牌一律月付起步。** 年付折扣看起来划算，但一旦中途跑路，你损失的是整年费用而不是一个月。折扣的本质是你借钱给对方并承担风险。
 
-更多基础问题的解答，可以直接翻[长尾问答库](https://www.jichangyyds.com/faq/)。
+更多基础问题的解答，可以直接翻[长尾问答库](https://jcyyds.com/faq/)。
 
 ---
 

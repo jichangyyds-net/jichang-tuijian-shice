@@ -2,7 +2,7 @@
 
 > 白天好好的、一到晚上八点就卡成 PPT，这是机场用户最高频的抱怨。本文拆解晚高峰卡顿的三类成因——机场超售、公网出口拥堵、以及你自己这一端的问题，给出一套连续三天、任何人都能复现的测试方法，并说明什么情况下该换机场、什么情况下换了也一样卡。并给出可复现的测试方法：连续三天同一时段测速对比，判断该换机场还是换节点。
 >
-> 发布 2026-07-09｜原文：[https://www.jichangyyds.com/blog/wangaofeng-ka-zenme-ban/](https://www.jichangyyds.com/blog/wangaofeng-ka-zenme-ban/)
+> 发布 2026-07-09｜原文：[https://jcyyds.com/blog/wangaofeng-ka-zenme-ban/](https://jcyyds.com/blog/wangaofeng-ka-zenme-ban/)
 
 ---
 
@@ -82,14 +82,14 @@
 
 所以正确的做法是**跨档位换**：
 
-- 从低价档换到 [¥14–24 的主流性价比档](https://www.jichangyyds.com/topics/stable/)，通常能拿到质量明显更好的 BGP 中转
-- 如果你的主要使用时间就是晚上，而且对卡顿零容忍，直接上 [¥25 以上的专线档](https://www.jichangyyds.com/topics/dedicated-line/)
+- 从低价档换到 [¥14–24 的主流性价比档](https://jcyyds.com/topics/stable/)，通常能拿到质量明显更好的 BGP 中转
+- 如果你的主要使用时间就是晚上，而且对卡顿零容忍，直接上 [¥25 以上的专线档](https://jcyyds.com/topics/dedicated-line/)
 
-具体清单见[晚高峰稳定机场推荐](https://www.jichangyyds.com/topics/peak-hour/)。
+具体清单见[晚高峰稳定机场推荐](https://jcyyds.com/topics/peak-hour/)。
 
-换之前照例提醒两句：先对照[已跑路名单](https://www.jichangyyds.com/scam/)确认目标不在里面，然后**买月付**，用上面那套三天测试法验证过再考虑续长期套餐。别拿年付去赌一个还没验证过的机场。
+换之前照例提醒两句：先对照[已跑路名单](https://jcyyds.com/scam/)确认目标不在里面，然后**买月付**，用上面那套三天测试法验证过再考虑续长期套餐。别拿年付去赌一个还没验证过的机场。
 
-其他故障（节点全红、订阅失效、Netflix 报错、ChatGPT 不可用）的排查方法，见[机场报错排查页](https://www.jichangyyds.com/troubleshoot/)。
+其他故障（节点全红、订阅失效、Netflix 报错、ChatGPT 不可用）的排查方法，见[机场报错排查页](https://jcyyds.com/troubleshoot/)。
 
 ---
 

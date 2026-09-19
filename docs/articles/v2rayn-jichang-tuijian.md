@@ -2,7 +2,7 @@
 
 > v2rayN 和 v2rayNG 是 Windows 与安卓上最常见的免费客户端，但它们只负责解析订阅，体验取决于机场。本文讲清两者的定位差异、选订阅时该确认的协议与格式、系统代理和 TUN 模式的取舍，以及电脑梯子推荐里的常见误区。
 >
-> 发布 2026-07-19｜原文：[https://www.jichangyyds.com/blog/v2rayn-jichang-tuijian/](https://www.jichangyyds.com/blog/v2rayn-jichang-tuijian/)
+> 发布 2026-07-19｜原文：[https://jcyyds.com/blog/v2rayn-jichang-tuijian/](https://jcyyds.com/blog/v2rayn-jichang-tuijian/)
 
 ---
 
@@ -32,7 +32,7 @@ v2rayN（Windows）和 v2rayNG（安卓）是同一个作者维护的开源项�
 
 机场的订阅链接通常有多种格式：Clash 用的 YAML、v2ray 系用的 Base64 编码节点列表、Surge 用的 conf。**把 Clash 那条订阅塞进 v2rayN，多半解析不出来。**
 
-选机场时看一眼用户中心有没有单独提供 v2rayN / v2rayNG 的订阅入口。绝大多数正规机场都有，但一些主打 Clash 的新机场会漏掉这一项。导入步骤见[订阅导入教程](https://www.jichangyyds.com/guides/)。
+选机场时看一眼用户中心有没有单独提供 v2rayN / v2rayNG 的订阅入口。绝大多数正规机场都有，但一些主打 Clash 的新机场会漏掉这一项。导入步骤见[订阅导入教程](https://jcyyds.com/guides/)。
 
 ### 二、协议支持范围
 
@@ -77,19 +77,19 @@ v2rayN 内核基于 Xray/v2ray-core，对 VMess、VLESS、Trojan、Shadowsocks �
 | 部分程序不走代理 | 该程序不遵守系统代理，需要 TUN |
 | 晚上八点后极慢 | 机场超售，见[晚高峰卡怎么办](wangaofeng-ka-zenme-ban.md) |
 
-**排查顺序永远是：先换节点，再换客户端，最后才怀疑机场。** 很多人第一步就下单换机场，钱花了问题还在。更多报错见[机场报错排查](https://www.jichangyyds.com/troubleshoot/)。
+**排查顺序永远是：先换节点，再换客户端，最后才怀疑机场。** 很多人第一步就下单换机场，钱花了问题还在。更多报错见[机场报错排查](https://jcyyds.com/troubleshoot/)。
 
 ## 电脑端选机场的一个实际建议
 
 桌面端和手机端有个真实差别：**电脑上的流量消耗通常大得多**。大文件下载、开发环境拉依赖、云盘同步、Steam 更新，一不留神几十 GB 就没了。
 
-所以电脑为主的用户，比手机用户更该关注**流量额度而不是节点数量**。同样的钱，选一个 200GB 的套餐往往比选一个节点更多但只有 100GB 的划算。如果你的用量波动很大，[按量计费类机场](https://www.jichangyyds.com/topics/cheap/)反而更合适。
+所以电脑为主的用户，比手机用户更该关注**流量额度而不是节点数量**。同样的钱，选一个 200GB 的套餐往往比选一个节点更多但只有 100GB 的划算。如果你的用量波动很大，[按量计费类机场](https://jcyyds.com/topics/cheap/)反而更合适。
 
 ## 怎么开始
 
-在 [v2rayN 机场专题](https://www.jichangyyds.com/topics/v2rayn/)里筛出明确提供 v2ray 格式订阅和配置文档的几家，去[机场排行榜](https://www.jichangyyds.com/rank/)对照它们的档位和口碑，然后**买月付实测一周**，重点跑一次晚高峰。
+在 [v2rayN 机场专题](https://jcyyds.com/topics/v2rayn/)里筛出明确提供 v2ray 格式订阅和配置文档的几家，去[机场排行榜](https://jcyyds.com/rank/)对照它们的档位和口碑，然后**买月付实测一周**，重点跑一次晚高峰。
 
-付款前对照[已跑路机场名单](https://www.jichangyyds.com/scam/)。客户端是免费的，机场不是——把风险控制在一个月的费用里。
+付款前对照[已跑路机场名单](https://jcyyds.com/scam/)。客户端是免费的，机场不是——把风险控制在一个月的费用里。
 
 ---
 

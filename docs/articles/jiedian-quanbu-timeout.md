@@ -2,7 +2,7 @@
 
 > 客户端里所有节点都显示 timeout、failed 或 error，一个都连不上。本文按卡点分层排查：先分清是本机还是机场，再处理「流量能用 Wi-Fi 不能用」「官网状态正常我这里却全超时」「换过网络改过 DNS 仍然超时」，附 Clash Verge、Shadowrocket、v2rayN、NekoBox 各自的专属检查项。
 >
-> 发布 2026-08-14｜原文：[https://www.jichangyyds.com/blog/jiedian-quanbu-timeout/](https://www.jichangyyds.com/blog/jiedian-quanbu-timeout/)
+> 发布 2026-08-14｜原文：[https://jcyyds.com/blog/jiedian-quanbu-timeout/](https://jcyyds.com/blog/jiedian-quanbu-timeout/)
 
 ---
 
@@ -41,7 +41,7 @@
 | --- | --- |
 | 换网络后能用 | 当前网络环境的问题 → 第二节 |
 | 换设备也全超时、订阅能刷新 | 订阅内容或机场侧 → 第三、四节 |
-| 订阅刷新失败 / 节点列表是空的 | 订阅地址或机场入口的问题，先看[机场入口可达性监测](https://www.jichangyyds.com/status/)那家今天通不通 |
+| 订阅刷新失败 / 节点列表是空的 | 订阅地址或机场入口的问题，先看[机场入口可达性监测](https://jcyyds.com/status/)那家今天通不通 |
 
 如果这几步你已经全做完了还是不行，那你的情况在第四节，不在这里。
 
@@ -87,7 +87,7 @@
 你实际走的：   你的设备 → 本地网络 → 运营商 → 机场节点
 ```
 
-状态页(包括本站的[机场入口可达性每日监测](https://www.jichangyyds.com/status/))通常是从固定的监测点发起探测，**验证的是「节点服务器还活着、还在响应」**。而你这一端要多走本地网络、DNS、运营商这几段——这几段状态页一段都测不到。
+状态页(包括本站的[机场入口可达性每日监测](https://jcyyds.com/status/))通常是从固定的监测点发起探测，**验证的是「节点服务器还活着、还在响应」**。而你这一端要多走本地网络、DNS、运营商这几段——这几段状态页一段都测不到。
 
 所以这两句话可以同时成立，并不矛盾：
 
@@ -200,16 +200,16 @@ macOS:    dig 节点域名
 
 四条都成立，机场侧故障的概率才明显提高。只满足前一两条的时候，更可能还是本地环境的问题。
 
-如果确认是机场侧，而且**连续多天没有恢复、官方也不给明确说法**，那才到了考虑换一家的时候。判断一家值不值得继续等，可以对照[如何判断机场会不会跑路](ruhe-panduan-jichang-paolu.md)里的几个信号；已经确认停运的，见[已跑路机场名单](https://www.jichangyyds.com/scam/)。
+如果确认是机场侧，而且**连续多天没有恢复、官方也不给明确说法**，那才到了考虑换一家的时候。判断一家值不值得继续等，可以对照[如何判断机场会不会跑路](ruhe-panduan-jichang-paolu.md)里的几个信号；已经确认停运的，见[已跑路机场名单](https://jcyyds.com/scam/)。
 
-要换的话，先看[机场推荐排行榜](https://www.jichangyyds.com/rank/)——榜单前几位是本站编辑推荐位、掺入了合作关系，想看完全不受推荐影响的排序，去[纯价格表](https://www.jichangyyds.com/rank/#price)。稳定性优先的话，走内网专线的那一档抗故障能力更强，区别见[IPLC、IEPL、中转与直连的差别](iplc-iepl-zhongzhuan-zhilian.md)。
+要换的话，先看[机场推荐排行榜](https://jcyyds.com/rank/)——榜单前几位是本站编辑推荐位、掺入了合作关系，想看完全不受推荐影响的排序，去[纯价格表](https://jcyyds.com/rank/#price)。稳定性优先的话，走内网专线的那一档抗故障能力更强，区别见[IPLC、IEPL、中转与直连的差别](iplc-iepl-zhongzhuan-zhilian.md)。
 
 ## 相关排查
 
 - 能连上但很慢、一到晚上就卡 → [机场晚高峰卡怎么办](wangaofeng-ka-zenme-ban.md)
 - 订阅导入这一步就失败 → [Clash 订阅导入完整教程](clash订阅导入教程-机场订阅怎么用.md)
-- 其它常见故障的快速清单 → [机场故障排查](https://www.jichangyyds.com/troubleshoot/)
-- 想确认某家今天入口通不通 → [机场入口可达性每日监测](https://www.jichangyyds.com/status/)
+- 其它常见故障的快速清单 → [机场故障排查](https://jcyyds.com/troubleshoot/)
+- 想确认某家今天入口通不通 → [机场入口可达性每日监测](https://jcyyds.com/status/)
 
 ---
 

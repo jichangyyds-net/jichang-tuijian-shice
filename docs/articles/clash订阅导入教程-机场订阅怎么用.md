@@ -2,7 +2,7 @@
 
 > Clash Verge Rev 与 Clash Meta（Mihomo）的订阅导入完整步骤，从拿到订阅链接到能正常上网一步不省：内核怎么选、策略组和规则分流怎么配、节点的地区与倍率标记怎么读、自动更新怎么设，以及导入失败时按顺序走的五步排查。另附各平台差异说明与订阅长期不更新时该查哪几项。
 >
-> 发布 2026-07-05｜原文：[https://www.jichangyyds.com/blog/clash-daoru-dingyue-jiaocheng/](https://www.jichangyyds.com/blog/clash-daoru-dingyue-jiaocheng/)
+> 发布 2026-07-05｜原文：[https://jcyyds.com/blog/clash-daoru-dingyue-jiaocheng/](https://jcyyds.com/blog/clash-daoru-dingyue-jiaocheng/)
 
 ---
 
@@ -67,7 +67,7 @@ Verge 顶部有三种模式：
 - **直连（Direct）**：全部不走代理，等于关掉。
 
 那规则模式是**怎么判断**哪些直连、哪些走代理的？答案在订阅自带的「规则集」里。本文只讲选哪个模式，规则集是什么、规则的匹配顺序、能不能自己加一条、以及策略组怎么用，见
-<a href="https://www.clashliubei.com/blog/clash-fenliu-guize/?utm_source=jichangyyds&utm_medium=referral&utm_campaign=clash-fenliu" rel="noopener noreferrer">Clash 分流规则与规则集怎么理解</a>。
+<a href="https://jcyyds.com/guides/" rel="noopener noreferrer">Clash 分流规则与规则集怎么理解</a>。
 
 <!--
   ⚠️ 上面这条外链是一次**受控实验**（2026-08-14 站长拍板），不要随手增删或复制到别处。
@@ -108,13 +108,13 @@ Verge 顶部有三种模式：
 
 **五、系统时间不准。** 时间偏差超过几分钟会导致部分协议握手失败。看起来像节点问题，实际是本机问题。
 
-如果导入成功但连不上，请转到[机场报错排查](https://www.jichangyyds.com/troubleshoot/)按现象自查。
+如果导入成功但连不上，请转到[机场报错排查](https://jcyyds.com/troubleshoot/)按现象自查。
 
 ## 还没买订阅？
 
 Clash 对机场几乎没有兼容性限制，绝大多数在营机场都提供 Clash 订阅，所以选择重点不在「支不支持」，而在线路质量和价格档位。
 
-可以从 [Clash 机场推荐](https://www.jichangyyds.com/topics/clash/)看在营清单，或者先去[机场排行榜](https://www.jichangyyds.com/rank/)按预算定档。下单前记得对照一遍[已跑路名单](https://www.jichangyyds.com/scam/)，并且**第一次一律买月付**。
+可以从 [Clash 机场推荐](https://jcyyds.com/topics/clash/)看在营清单，或者先去[机场排行榜](https://jcyyds.com/rank/)按预算定档。下单前记得对照一遍[已跑路名单](https://jcyyds.com/scam/)，并且**第一次一律买月付**。
 
 ---
 

@@ -1,7 +1,7 @@
 # 一翻云 —— 价格、套餐与实测数据
 
 > 一翻云的完整档案。数据快照 2026-08-23，**以官网当前信息为准**。
-> 官网入口与下单请走 [机场YYDS 的 一翻云 档案页](https://www.jichangyyds.com/brands/yifanyun/)。
+> 官网入口与下单请走 [机场榜 的 一翻云 档案页](https://jcyyds.com/brands/yifanyun/)。
 
 ## 基本信息
 
@@ -79,4 +79,4 @@
 
 ---
 
-[← 返回主清单](../../README.md) ｜ [一翻云 完整档案页](https://www.jichangyyds.com/brands/yifanyun/)
+[← 返回主清单](../../README.md) ｜ [一翻云 完整档案页](https://jcyyds.com/brands/yifanyun/)

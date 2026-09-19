@@ -2,7 +2,7 @@
 
 > 小火箭本身不提供节点，它只是个客户端，真正决定体验的是你导入的机场订阅。本文讲清 Shadowrocket 机场推荐里该看哪些指标、iPhone 上为什么要额外关注协议兼容性和省电，以及小火箭订阅推荐的几个避坑点。
 >
-> 发布 2026-07-17｜原文：[https://www.jichangyyds.com/blog/shadowrocket-jichang-tuijian/](https://www.jichangyyds.com/blog/shadowrocket-jichang-tuijian/)
+> 发布 2026-07-17｜原文：[https://jcyyds.com/blog/shadowrocket-jichang-tuijian/](https://jcyyds.com/blog/shadowrocket-jichang-tuijian/)
 
 ---
 
@@ -24,7 +24,7 @@
 
 - 换区不会丢失现有 App，但换区期间订阅类服务会受影响。
 - 用别人的共享账号下载，后续更新时会被要求输入那个账号的密码，长期看很麻烦，也有账号被找回的风险。
-- 如果你实在不想折腾 Apple ID，iOS 上还有 Stash、Loon、Quantumult X 等替代品，但它们同样只在非中国区上架，绕不开这一步。其中圈 X 的订阅格式最挑剔，选机场时要额外确认一件事，见[圈 X 机场推荐与订阅格式要求](https://www.jichangyyds.com/topics/quantumult-x/)。
+- 如果你实在不想折腾 Apple ID，iOS 上还有 Stash、Loon、Quantumult X 等替代品，但它们同样只在非中国区上架，绕不开这一步。其中圈 X 的订阅格式最挑剔，选机场时要额外确认一件事，见[圈 X 机场推荐与订阅格式要求](https://jcyyds.com/topics/quantumult-x/)。
 
 ## 小火箭用户选机场，重点看这四项
 
@@ -32,7 +32,7 @@
 
 Shadowrocket 的协议支持面很广：Shadowsocks、VMess、VLESS、Trojan、Hysteria2、TUIC 基本都能吃。所以协议本身很少成为瓶颈。
 
-真正需要确认的是**机场是否提供 Shadowrocket 专用的订阅格式**。很多机场的用户中心会针对不同客户端给不同的订阅链接，有的还提供「一键导入」按钮。直接复制 Clash 那条 YAML 订阅塞进小火箭，多数情况下解析不出来。选机场时看一眼它的订阅页面有没有单独列出 Shadowrocket，这是个很小但很实用的筛选条件。具体导入步骤见[订阅导入教程](https://www.jichangyyds.com/guides/)。
+真正需要确认的是**机场是否提供 Shadowrocket 专用的订阅格式**。很多机场的用户中心会针对不同客户端给不同的订阅链接，有的还提供「一键导入」按钮。直接复制 Clash 那条 YAML 订阅塞进小火箭，多数情况下解析不出来。选机场时看一眼它的订阅页面有没有单独列出 Shadowrocket，这是个很小但很实用的筛选条件。具体导入步骤见[订阅导入教程](https://jcyyds.com/guides/)。
 
 ### 二、节点数量别贪多
 
@@ -46,7 +46,7 @@ iOS 有内存限制，Shadowrocket 属于 Network Extension，可用内存额度
 
 这种场景下，基于 UDP 的 Hysteria2 / TUIC 类协议重连速度通常优于 TCP 系协议，体感上「一解锁就能用」。但它们更吃机场服务端的支持，不是所有家都提供。如果你主要在移动中使用，优先看机场节点列表里有没有这类协议节点。
 
-另外，低价走量档在移动网络下的掉线感受会被放大——电脑上卡两秒你可能没察觉，手机上就是刷不出来。这也是为什么手机重度用户建议直接从[稳定机场推荐](https://www.jichangyyds.com/topics/stable/)这一档起步，而不是最便宜那档。
+另外，低价走量档在移动网络下的掉线感受会被放大——电脑上卡两秒你可能没察觉，手机上就是刷不出来。这也是为什么手机重度用户建议直接从[稳定机场推荐](https://jcyyds.com/topics/stable/)这一档起步，而不是最便宜那档。
 
 ### 四、耗电
 
@@ -74,13 +74,13 @@ iOS 有内存限制，Shadowrocket 属于 Network Extension，可用内存额度
 | Netflix 只能看自制剧 | 该地区非全解锁，见[流媒体解锁机场](liumeiti-jiesuo-jichang.md) |
 | 流量掉得比预期快 | 用了高倍率节点，见[流量倍率怎么算](liuliang-beilv-taocan.md) |
 
-更多报错代码的对应处理见[机场报错排查](https://www.jichangyyds.com/troubleshoot/)。
+更多报错代码的对应处理见[机场报错排查](https://jcyyds.com/troubleshoot/)。
 
 ## 怎么开始
 
-iOS 用户的实际路径建议是这样：先在 [Shadowrocket 机场专题](https://www.jichangyyds.com/topics/shadowrocket/)里圈定几家明确支持小火箭订阅格式的，再对照[机场排行榜](https://www.jichangyyds.com/rank/)看晚高峰表现。
+iOS 用户的实际路径建议是这样：先在 [Shadowrocket 机场专题](https://jcyyds.com/topics/shadowrocket/)里圈定几家明确支持小火箭订阅格式的，再对照[机场排行榜](https://jcyyds.com/rank/)看晚高峰表现。
 
-老规矩：**新品牌一律月付起步**，付款前先对照[已跑路机场名单](https://www.jichangyyds.com/scam/)确认目标不在里面。小火箭这 ¥20 是一次性买断的，机场的年付可不是——跑路了就真没了。
+老规矩：**新品牌一律月付起步**，付款前先对照[已跑路机场名单](https://jcyyds.com/scam/)确认目标不在里面。小火箭这 ¥20 是一次性买断的，机场的年付可不是——跑路了就真没了。
 
 ---
 
