@@ -14,6 +14,27 @@
 
 ---
 
+## 本期核对（2026-10-13）
+
+开头摘要写于 2026-08-23 建库时，里面的数字（30 家、16 家实测、865 个节点、价格最低等）都指当时那 30 家。下面这一节每次刷新都会重写，写清楚这一期核对了什么、变了什么。
+
+| 项目 | 本期 |
+| --- | --- |
+| 核对日期 | 2026-10-13 |
+| 数据来源 | 机场YYDS 中央库（价格、优惠码、套餐、订阅方式、实测记录） |
+| 主清单范围 | 08-23 那 30 家，价格与优惠码按本期核对值刷新 |
+| 30 家里最低月付 | 动力港 ¥8 |
+| 30 家里本站实测香港中位最快 | 一翻云 145.64 MB/s |
+| 30 家里编辑评分最高 | 可信云 4.4 / 5（开头摘要里的评分是 08-23 的值。之后两处变化让各家分数变了：「价格竞争力」按全部在营品牌的价格区间算，新收录的低价品牌把区间拉宽了；券后价改为按有效期和适用人群计算，过期码或仅限新人的码不再计入） |
+| 08-23 之后新收录 | 15 家，单列在 [08-23 之后新收录](#08-23-之后新收录15-家)，不并入主清单各表 |
+| 算上新收录的最低月付 | 杏花云 ¥3（开头摘要说的「价格最低」只针对 30 家主清单） |
+
+**本期变动（与上一期 README 的纯价格表逐家比对）**
+
+- 30 家的最低月付与优惠码均无变化
+
+---
+
 ## 这份清单和别处的不一样在哪
 
 市面上流传的机场清单动辄「收录一百家」，其中大量条目连独立官网都查不到。
@@ -29,7 +50,7 @@
 | 推荐榜含合作关系，**在榜单上方就写明** | 不宣称「客观中立」「不接受付费改名次」——做不到的承诺是负债 |
 | 同时提供**不受推荐影响**的纯价格表与每 GB 成本表 | 不把商业排序伪装成数据结论 |
 
-> **本页数据为 2026-08-23 的快照。** 机场的价格、线路、可用性会变化，
+> **本页数据为 2026-10-13 的快照。** 机场的价格、线路、可用性会变化，
 > 下单前请以官网当前信息为准。本仓库不承诺持续更新。
 
 ---
@@ -40,7 +61,7 @@
 
 **第一步：定预算档位。**
 价格分层是带宽成本决定的，**不存在「又便宜又是专线」这种事**。
-低价走量走的是公网直连或隧道中转，高价专线档走的是 IPLC / IEPL 内网专线，
+低价走量走的是公网直连或隧道中转，高价档走的是 IPLC / IEPL 内网专线，
 中间的差价就是那条线路的成本。
 
 **第二步：按用途挑线路。**
@@ -59,7 +80,7 @@
 | --- | --- | --- | --- | ---: |
 | 低价走量 | ¥8 – 18 | 公网直连 / 隧道中转 | 预算敏感、白天为主、先试水 | 9 家 |
 | 主流性价比 | ¥19 – 20 | 优质 BGP 中转、部分 CN2 | 大多数人的最终落点 | 9 家 |
-| 高价专线档 | ¥24 – 30 | IPLC / IEPL 内网专线 | 晚高峰零容忍、AI 与跨境业务 | 12 家 |
+| 高价档 | ¥24 – 30 | IPLC / IEPL 内网专线 | 晚高峰零容忍、AI 与跨境业务 | 12 家 |
 
 延伸阅读：[IPLC、IEPL、中转、直连有什么区别](docs/articles/iplc-iepl-zhongzhuan-zhilian.md)
 
@@ -79,17 +100,17 @@
 
 | 机场品牌 | 最低月付 | 优惠码 | 券后 | 编辑评分 | 节点数 |
 | --- | ---: | --- | ---: | ---: | ---: |
-| [动力港](https://www.jichangyyds.com/brands/dongligang/) | ¥8 | — | — | 3.2 | 70 |
+| [动力港](https://www.jichangyyds.com/brands/dongligang/) | ¥8 | — | — | 2.9 | 70 |
 | [拼好连](https://www.jichangyyds.com/brands/pinhaolian/) ⚠️ | ¥9.9 | — | — | 数据不足 | — |
-| [edgenova](https://www.jichangyyds.com/brands/edgenova/) | ¥15 | `EN888` | ¥12.75 | 4.5 | 42 |
-| [可信云](https://www.jichangyyds.com/brands/kexinyun/) | ¥15 | `KEXIN85` | ¥12.75 | 4.5 | 50 |
-| [快狸](https://www.jichangyyds.com/brands/kuaili/) | ¥15 | — | — | 4.4 | 38 |
-| [速界](https://www.jichangyyds.com/brands/sujie/) | ¥15 | `sj888` | ¥12.75 | 4.5 | 52 |
-| [光速云](https://www.jichangyyds.com/brands/guangsuyun/) | ¥17 | — | — | 4.3 | 48 |
-| [极连云](https://www.jichangyyds.com/brands/jilianyun/) | ¥18 | — | — | 4.3 | 55 |
-| [光年梯](https://www.jichangyyds.com/brands/guangnianti/) ⚠️ | ¥18 | — | — | 4.4 | 62 |
+| [edgenova](https://www.jichangyyds.com/brands/edgenova/) | ¥15 | `EN888` | — | 4.3 | 42 |
+| [可信云](https://www.jichangyyds.com/brands/kexinyun/) | ¥15 | `KEXIN85` | ¥12.75 | 4.4 | 50 |
+| [快狸](https://www.jichangyyds.com/brands/kuaili/) | ¥15 | — | — | 4.3 | 38 |
+| [速界](https://www.jichangyyds.com/brands/sujie/) | ¥15 | `sj888` | — | 4.3 | 52 |
+| [光速云](https://www.jichangyyds.com/brands/guangsuyun/) | ¥17 | — | — | 4.2 | 48 |
+| [极连云](https://www.jichangyyds.com/brands/jilianyun/) | ¥18 | — | — | 4.2 | 55 |
+| [光年梯](https://www.jichangyyds.com/brands/guangnianti/) ⚠️ | ¥18 | — | — | 4.3 | 62 |
 
-> ⚠️ **拼好连**：下单前必看（以下三条均为运营方在购买流程中明确标示的原文，非本站推断）：①「无法提供相关教程和使用说明。不会使用请勿购买，没有退款政策」——即不提供客户端配置或使用指导，且**没有退款政策**，需自行解决或另找教程；不熟悉 Clash / Shadowrocket 导入订阅的用户，请先确认自己能独立完成配置再购买。②「常规套餐默认每月订单日重置流量，您当月未使用完的流量，不会累积到下个月」——即**流量按月清零、不结转**，选档时应按单月实际用量估算，买多不划算。本站尚未对拼好连做任何测速、解锁或晚高峰实测，以下均为运营方页面标示：天天尝鲜拼限速 200Mbps、覆盖 11 国；万人好评拼限速 400Mbps、覆盖 16+ 国；至尊金牌拼与跨境全球拼不限速，分别覆盖 18 国与未明确完整国家数；跨境全球拼宣传 BGP + IEPL 线路；随心充能包标示 1Gbps。运营方另宣称完美解锁 Netflix / YouTube、4K/8K、ChatGPT 优化与 SLA 99.99%，这些本站均未核实。页面还标示年付相对月付约省 18% / 16% / 17% / 6%（四档依次），但未给出年付实际金额，因此本站不反推、不写入价格表。¥888 VIP 包场拼为定制业务（专属节点 / 独享 IP / 定制线路），不参与普通套餐性价比比较。
+> ⚠️ **拼好连**：下单前必看（运营方在购买流程中明确标示的原文，非本站推断）：「无法提供相关教程和使用说明。不会使用请勿购买，没有退款政策」——即不提供客户端配置或使用指导，且没有退款政策，需自行解决或另找教程；不熟悉 Clash / Shadowrocket 导入订阅的用户，请先确认自己能独立完成配置再购买。2026-10-09 核对：运营方套餐为四档月付（另有季度 / 半年 / 一年周期）加一个一次性流量包：天天尝鲜拼 ¥9.9 / 100GB · 万人好评拼 ¥19.9 / 200GB · 至尊金牌拼 ¥50 / 600GB · 跨境全球拼 ¥79 / 1TB；随心充能包 ¥45 / 150GB 不限时。页面标示一年周期相对月付约省 18% / 16% / 17% / 6%（四档依次），未直接给出年付总价，本站不反推、不写入价格表。运营方建议季付起购。本站尚未对拼好连做任何测速、解锁或晚高峰实测，以下均为运营方页面标示、本站未核实：天天尝鲜拼限速 200Mbps、覆盖 11 国；万人好评拼限速 400Mbps、覆盖 16 国；至尊金牌拼不限速、覆盖 18 国；跨境全球拼标示全量精选节点含高阶专属航线；随心充能包覆盖 18 国、1Gbps；各档客户端限 3 台；另宣称解锁 Netflix / YouTube、4K / 8K、ChatGPT 优化、BGP + IEPL 线路与 SLA 99.99%。¥888 VIP 包场拼为定制业务（独享 IP / 指定落地 / 专线，需工单或 Telegram 洽谈），不参与普通套餐性价比比较。运营方还表示：注册送免费体验，试用觉得不好用可以不付费（付费后仍按上面的无退款政策）——本站未核实。拼好连运营方与本站有合作关系。本站建议：先买一个月自己测，好用再续长周期。
 >
 > ⚠️ **edgenova** 折后价的适用条件：EN888 是节点故障补偿码，**仅限续费用户**，且官方标明限时 2 个月，新用户不适用
 >
@@ -103,14 +124,14 @@
 
 | 机场品牌 | 最低月付 | 优惠码 | 券后 | 编辑评分 | 节点数 |
 | --- | ---: | --- | ---: | ---: | ---: |
-| [无忧链接](https://www.jichangyyds.com/brands/wuyoulianjie/) ⚠️ | ¥19 | `wuyou666` | ¥12.92 | 数据不足 | — |
-| [唯兔云](https://www.jichangyyds.com/brands/weituyun/) | ¥19.9 | `rabbit` | ¥17.91 | 4.1 | 30 |
-| [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | ¥20 | `kuajie` | ¥16 | 3.8 | — |
-| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | ¥20 | `1FLYYUN` | ¥18 | 4.4 | 85 |
-| [二猫云](https://www.jichangyyds.com/brands/ermaoyun/) | ¥20 | `ermao888` | — | 4.2 | 40 |
-| [全球云](https://www.jichangyyds.com/brands/quanqiuyun/) | ¥20 | — | — | 3.5 | 33 |
-| [U1S1](https://www.jichangyyds.com/brands/u1s1/) | ¥20 | `U1S1` | ¥17 | 3.9 | 49 |
+| [无忧链接](https://www.jichangyyds.com/brands/wuyoulianjie/) ⚠️ | ¥19 | `wuyou666` | — | 数据不足 | — |
+| [唯兔云](https://www.jichangyyds.com/brands/weituyun/) | ¥19.9 | `rabbit` | ¥17.91 | 4.0 | 30 |
+| [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | ¥20 | `kuajie` | ¥16 | 3.6 | — |
 | [暮光加速](https://www.jichangyyds.com/brands/muguang/) | ¥20 | `mm88` | — | 数据不足 | — |
+| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) ⚠️ | ¥20 | `1FLYYUN` | ¥18 | 4.3 | 85 |
+| [二猫云](https://www.jichangyyds.com/brands/ermaoyun/) | ¥20 | `ermao888` | — | 4.1 | 40 |
+| [全球云](https://www.jichangyyds.com/brands/quanqiuyun/) | ¥20 | — | — | 3.5 | 33 |
+| [U1S1](https://www.jichangyyds.com/brands/u1s1/) | ¥20 | `U1S1` | — | 3.7 | 49 |
 | [灵动云](https://www.jichangyyds.com/brands/lingdongyun/) | ¥20 | `ld88` | — | 数据不足 | — |
 
 > ⚠️ **无忧链接**：该机场已暂时关闭原订阅链接按钮，Clash / Shadowrocket 等第三方客户端需联系客服单独定制加密订阅，主推自研客户端（2026-08-03 档案记录，未见解除公告）。依赖第三方客户端的用户下单前请先向客服确认。
@@ -119,30 +140,34 @@
 >
 > ⚠️ **唯兔云** 折后价的适用条件：需在结算页「有优惠券？」处手动填入并点「验证」
 >
-> ⚠️ **跨界云** 折后价的适用条件：所有档位与周期（含两年/三年付）及重置包均可用，不限新老用户，未设有效期；⚠️ 跨界年付版（¥96/60GB）不适用
+> ⚠️ **跨界云** 折后价的适用条件：月付/季付/半年/年付/两年/三年各档及流量重置均可用，不限新老用户，未设有效期；⚠️ 跨界年付版（¥96/60GB）与跨界·不限时包（¥200/300GB）不适用；跨界年付版（¥150/100GB）是否适用以结算页为准
+>
+> ⚠️ **一翻云**：该机场已全面停止发放订阅链接，改为只用官方自研客户端：用官网注册的邮箱与密码登录客户端即可，Clash / Shadowrocket 等第三方客户端用不了。（站长 2026-09-04 确认）
 >
 > ⚠️ **一翻云** 折后价的适用条件：已在结算页实测：轻享版月付 ¥20 → ¥18。页面未标明适用人群与有效期
 >
 > ⚠️ **U1S1** 折后价的适用条件：U1S1 是**新人特惠** 85 折，老用户不适用；官方注明「96 年包不适用」
 
-### 高价专线档（12 家，¥24 – 30）
+### 高价档（12 家，¥24 – 30）
 
 | 机场品牌 | 最低月付 | 优惠码 | 券后 | 编辑评分 | 节点数 |
 | --- | ---: | --- | ---: | ---: | ---: |
-| [闪跃](https://www.jichangyyds.com/brands/shanyue/) | ¥24 | `shanyue` | ¥19.2 | 3.6 | — |
+| [闪跃](https://www.jichangyyds.com/brands/shanyue/) | ¥24 | `shanyue` | — | 3.2 | — |
 | [隐形人](https://www.jichangyyds.com/brands/yinxingren/) | ¥24 | `yxr888` | — | 数据不足 | — |
-| [飞猫云](https://www.jichangyyds.com/brands/feimaoyun/) | ¥25 | — | — | 3.7 | 88 |
-| [星岛梦](https://www.jichangyyds.com/brands/xingdaomeng/) | ¥25 | `nmw888` | ¥22.5 | 4.0 | 88 |
+| [飞猫云](https://www.jichangyyds.com/brands/feimaoyun/) | ¥25 | — | — | 3.6 | 88 |
+| [Firefly](https://www.jichangyyds.com/brands/firefly/) | ¥25 | `firefly` | — | 数据不足 | — |
+| [星岛梦](https://www.jichangyyds.com/brands/xingdaomeng/) | ¥25 | `nmw888` | ¥22.5 | 3.9 | 88 |
 | [sogo云](https://www.jichangyyds.com/brands/sogoyun/) | ¥25 | `SOGO88` | ¥22 | 4.1 | 45 |
 | [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | ¥25 | `YUZHOU553` | ¥20 | 4.2 | 60 |
-| [Firefly](https://www.jichangyyds.com/brands/firefly/) | ¥25 | `firefly` | ¥20 | 数据不足 | — |
 | [FlyV](https://www.jichangyyds.com/brands/flyv/) | ¥25 | `fly20` | — | 数据不足 | — |
 | [梯子云](https://www.jichangyyds.com/brands/tiziyun/) | ¥25 | `tiziyun` | — | 数据不足 | — |
-| [微风网络](https://www.jichangyyds.com/brands/weifengwangluo/) | ¥27 | `weifeng90` | ¥18.9 | 数据不足 | — |
+| [微风网络](https://www.jichangyyds.com/brands/weifengwangluo/) | ¥27 | — | — | 数据不足 | — |
 | [浪网](https://www.jichangyyds.com/brands/langwang/) | ¥30 | `lw88` | — | 数据不足 | — |
 | [极速Cloud](https://www.jichangyyds.com/brands/jisucloud/) ⚠️ | ¥30 | `ikds88` | — | 数据不足 | — |
 
 > ⚠️ **闪跃** 折后价的适用条件：新人优惠，限用 1 次；适用于闪动 / 飞跃 / 瞬移 / 跃迁四档，月付至三年付均可
+>
+> ⚠️ **Firefly** 折后价的适用条件：仅限新用户首单；¥96 年付版不适用
 >
 > ⚠️ **星岛梦** 折后价的适用条件：需在结算页「有优惠券？」处手动填入并点「验证」
 >
@@ -150,11 +175,162 @@
 >
 > ⚠️ **宇宙云** 折后价的适用条件：需在结算页「有优惠券？」处手动填入并点「验证」
 >
-> ⚠️ **Firefly** 折后价的适用条件：仅限新用户首单；¥96 年付版不适用
->
-> ⚠️ **微风网络** 折后价的适用条件：公告称全场七折（新购/续费/升级均可），公告已列折后价；⚠️ 码尾数字 90 与七折表述存在出入，结算页实测前以公告为准
->
 > ⚠️ **极速Cloud**：🛑 全站套餐节点倍率 10 倍：官网标称 1000G 实际折合 100G，本站表格一律按折合值展示（折合数字为运营方自行标注）。运营方明示：无退款服务 · 禁止 BT 下载否则封禁 · 发现恶意公开订阅立即封禁 · 每日限购 10 份。新人 100G 体验 ¥15/月只支持新人购买、购买过后无法续费、只支持月付。另有两档一次性买断（用完为止、不限时间）：1000G ¥329（折合 100G，3 设备）、2000G ¥658（折合 200G，5 设备）；因无计费周期未进上方价格表。设备数：体验档 2 台，¥30 / ¥45 档 3 台，¥60 及以上 5 台。⚠️ 推广入口最终落到裸 IP（无域名），IP 变更或被封时链接即断，已纳入每日入口探测。运营方自述线路：电信 CN2GIA、联通 AS9929/10099、移动 CMIN2；香港与新加坡 GoMami，美国 DMIT，台湾与日本 NEBURST，欧洲德国 9929 —— 以上为运营方说法，本站未核实。运营方自述覆盖 27 个地区并称陆续增加。
+
+---
+
+## 逐家速览（30 家）
+
+每家一句话，全部取自中央库字段；没有记录的写「未实测 / 待核实」，不补形容词。顺序同上面的推荐榜（含合作关系）。
+
+### 跨界云
+
+最低月付 ¥20（轻云 Lite，120GB / 月）；优惠码 `kuajie`，券后 ¥16；订阅：官方客户端免订阅，也支持第三方客户端；只有运营方测试报告，本站未实测。 [档案](docs/brands/kuajieyun.md)
+
+### 微风网络
+
+最低月付 ¥27（乘风 (Riding)，200GB / 月）；订阅：提供订阅链接，部分第三方客户端不支持；本站未实测。 [档案](docs/brands/weifengwangluo.md)
+
+### 飞猫云
+
+最低月付 ¥25；订阅：提供订阅链接，部分第三方客户端不支持；本站晚高峰实测香港中位 60.48 MB/s（2026-07-21）。 [档案](docs/brands/feimaoyun.md)
+
+### 暮光加速
+
+最低月付 ¥20（基础版，120GB / 月）；优惠码 `mm88`；订阅：待核实；本站未实测。 [档案](docs/brands/muguang.md)
+
+### 闪跃
+
+最低月付 ¥24（闪动 Flicker，150GB / 月）；优惠码 `shanyue`；订阅：提供订阅链接，部分第三方客户端不支持；只有运营方测试报告，本站未实测。 [档案](docs/brands/shanyue.md)
+
+### Firefly
+
+最低月付 ¥25（Firefly Lite，150GB / 月）；优惠码 `firefly`；订阅：暂不提供订阅链接，只能用它自己的客户端；本站未实测。 [档案](docs/brands/firefly.md)
+
+### 无忧链接
+
+最低月付 ¥19（舒心链接，100GB / 月）；优惠码 `wuyou666`；订阅：暂不提供订阅链接，只能用它自己的客户端；本站未实测。 [档案](docs/brands/wuyoulianjie.md)
+
+### 一翻云
+
+最低月付 ¥20（轻享版，150GB / 月）；优惠码 `1FLYYUN`，券后 ¥18；订阅：只用官方客户端（不提供第三方订阅）；本站晚高峰实测香港中位 145.64 MB/s（2026-07-21）。 [档案](docs/brands/yifanyun.md)
+
+### 星岛梦
+
+最低月付 ¥25；优惠码 `nmw888`，券后 ¥22.5；订阅：提供订阅链接，部分第三方客户端不支持；本站晚高峰实测香港中位 54.76 MB/s（2026-07-21）。 [档案](docs/brands/xingdaomeng.md)
+
+### 光速云
+
+最低月付 ¥17；订阅：提供订阅链接，部分第三方客户端不支持；本站晚高峰实测香港中位 123.1 MB/s（2026-07-20）。 [档案](docs/brands/guangsuyun.md)
+
+### 二猫云
+
+最低月付 ¥20；优惠码 `ermao888`；订阅：提供订阅链接，部分第三方客户端不支持；本站晚高峰实测香港中位 93.32 MB/s（2026-07-21）。 [档案](docs/brands/ermaoyun.md)
+
+### 全球云
+
+最低月付 ¥20；订阅：提供订阅链接，部分第三方客户端不支持；本站晚高峰实测香港中位 86.73 MB/s（2026-07-20）。 [档案](docs/brands/quanqiuyun.md)
+
+### 唯兔云
+
+最低月付 ¥19.9；优惠码 `rabbit`，券后 ¥17.91；订阅：暂不提供订阅链接，只能用它自己的客户端；本站晚高峰实测香港中位 73.25 MB/s（2026-07-19）。 [档案](docs/brands/weituyun.md)
+
+### U1S1
+
+最低月付 ¥20；优惠码 `U1S1`；订阅：暂不提供订阅链接，只能用它自己的客户端；本站晚高峰实测香港中位 78.94 MB/s（2026-07-19）。 [档案](docs/brands/u1s1.md)
+
+### 极连云
+
+最低月付 ¥18；订阅：暂不提供订阅链接，只能用它自己的客户端；本站晚高峰实测香港中位 125.35 MB/s（2026-07-21）。 [档案](docs/brands/jilianyun.md)
+
+### 光年梯
+
+最低月付 ¥18；订阅：暂不提供订阅链接，只能用它自己的客户端；本站晚高峰实测香港中位 82.06 MB/s（2026-07-19）。 [档案](docs/brands/guangnianti.md)
+
+### edgenova
+
+最低月付 ¥15；优惠码 `EN888`；订阅：暂不提供订阅链接，只能用它自己的客户端；本站晚高峰实测香港中位 114.16 MB/s（2026-07-21）。 [档案](docs/brands/edgenova.md)
+
+### 可信云
+
+最低月付 ¥15；优惠码 `KEXIN85`，券后 ¥12.75；订阅：暂不提供订阅链接，只能用它自己的客户端；本站晚高峰实测香港中位 121.55 MB/s（2026-07-20）。 [档案](docs/brands/kexinyun.md)
+
+### 快狸
+
+最低月付 ¥15（月狸月付小套餐，50GB / 月）；订阅：暂不提供订阅链接，只能用它自己的客户端；本站晚高峰实测香港中位 91.02 MB/s（2026-07-19）。 [档案](docs/brands/kuaili.md)
+
+### sogo云
+
+最低月付 ¥25；优惠码 `SOGO88`，券后 ¥22；订阅：暂不提供订阅链接，只能用它自己的客户端；本站晚高峰实测香港中位 102.82 MB/s（2026-07-21）。 [档案](docs/brands/sogoyun.md)
+
+### 速界
+
+最低月付 ¥15（单月试用 15 元，50GB / 月）；优惠码 `sj888`；订阅：暂不提供订阅链接，只能用它自己的客户端；本站晚高峰实测香港中位 95.6 MB/s（2026-07-19）。 [档案](docs/brands/sujie.md)
+
+### 宇宙云
+
+最低月付 ¥25（行星基础版，120GB / 月）；优惠码 `YUZHOU553`，券后 ¥20；订阅：暂不提供订阅链接，只能用它自己的客户端；本站晚高峰实测香港中位 94.25 MB/s（2026-07-20）。 [档案](docs/brands/yuzhouyun.md)
+
+### FlyV
+
+最低月付 ¥25（入门方案，150GB / 月）；优惠码 `fly20`；订阅：待核实；本站未实测。 [档案](docs/brands/flyv.md)
+
+### 梯子云
+
+最低月付 ¥25（初阶网络 · 基础视界，125GB / 月）；优惠码 `tiziyun`；订阅：待核实；本站未实测。 [档案](docs/brands/tiziyun.md)
+
+### 浪网
+
+最低月付 ¥30（入门，150GB / 月）；优惠码 `lw88`；订阅：待核实；本站未实测。 [档案](docs/brands/langwang.md)
+
+### 灵动云
+
+最低月付 ¥20（拂风，100GB / 月）；优惠码 `ld88`；订阅：待核实；本站未实测。 [档案](docs/brands/lingdongyun.md)
+
+### 隐形人
+
+最低月付 ¥24（白银纪元，144GB / 月）；优惠码 `yxr888`；订阅：待核实；本站未实测。 [档案](docs/brands/yinxingren.md)
+
+### 拼好连
+
+最低月付 ¥9.9（天天尝鲜拼，100GB / 月）；订阅：待核实；本站未实测。 [档案](docs/brands/pinhaolian.md)
+
+### 极速Cloud
+
+最低月付 ¥30（月付-1000G，100GB / 月（标称1000G·倍率10倍））；优惠码 `ikds88`；订阅：未写明；本站未实测。 [档案](docs/brands/jisucloud.md)
+
+### 动力港
+
+最低月付 ¥8（驱逐舰，100GB / 月）；订阅：未写明；本站未实测。 [档案](docs/brands/dongligang.md)
+
+---
+
+## 08-23 之后新收录（15 家）
+
+> **口径**：下面这些品牌在 2026-08-23 建库时还不在本清单里，之后才收进机场YYDS 中央库，并核实到独立官网。
+> 它们**不计入**开头摘要的「30 家」，也不进上面的完整清单、纯价格表、每 GB 成本表和场景表。
+> 开头摘要里「价格最低」这类说法只针对那 30 家，不包括这里。
+> 顺序 = 本站推荐榜顺序（含合作关系）。「进入中央库」取自主站数据文件的提交记录。
+
+| 机场品牌 | 最低月付 | 优惠码 | 券后 | 档位 | 进入中央库 | 本站实测 |
+| --- | ---: | --- | ---: | --- | --- | --- |
+| [大佬云](https://www.jichangyyds.com/brands/dalaoyun/) | ¥23 | — | — | 高价档 | 2026-09-22 | 无 |
+| [榴莲云](https://www.jichangyyds.com/brands/liulianyun/) | ¥24 | `ll88` | — | 高价档 | 2026-09-22 | 无 |
+| [闪电鼠](https://www.jichangyyds.com/brands/shandianshu/) | ¥22 | — | — | 主流性价比 | 2026-09-22 | 无 |
+| [环球梯](https://www.jichangyyds.com/brands/huanqiuti/) | ¥23 | — | — | 高价档 | 2026-09-22 | 无 |
+| [神行加速](https://www.jichangyyds.com/brands/shenxingjiasu/) | ¥23 | — | — | 高价档 | 2026-09-22 | 无 |
+| [云界线](https://www.jichangyyds.com/brands/yunjiexian/) | ¥25 | — | — | 高价档 | 2026-09-22 | 无 |
+| [财路云](https://www.jichangyyds.com/brands/cailuyun/) | ¥6＊ | — | — | 低价走量 | 2026-09-12 | 无 |
+| [山水云](https://www.jichangyyds.com/brands/shanshuiyun/) | ¥12＊ | — | — | 低价走量 | 2026-07-22 | 无 |
+| [秒秒云](https://www.jichangyyds.com/brands/miaomiaoyun/) | ¥9＊ | — | — | 低价走量 | 2026-07-22 | 无 |
+| [宝云](https://www.jichangyyds.com/brands/baoyun/) | ¥4＊ | — | — | 低价走量 | 2026-09-12 | 无 |
+| [九云](https://www.jichangyyds.com/brands/jiuyun/) | ¥6＊ | — | — | 低价走量 | 2026-09-12 | 无 |
+| [锦云](https://www.jichangyyds.com/brands/jinyun/) | ¥6＊ | — | — | 低价走量 | 2026-09-12 | 无 |
+| [鲤云](https://www.jichangyyds.com/brands/liyun/) | ¥5＊ | — | — | 低价走量 | 2026-09-12 | 无 |
+| [AndyCloud](https://www.jichangyyds.com/brands/andycloud/) | ¥5＊ | — | — | 低价走量 | 2026-09-24 | 无 |
+| [杏花云](https://www.jichangyyds.com/brands/xinghuayun/) | ¥3＊ | — | — | 低价走量 | 2026-09-24 | 无 |
+
+每家档案在 `docs/brands/`，价格以官网结算页为准。
 
 ---
 
@@ -166,34 +342,34 @@
 | ---: | --- | ---: | --- | ---: | --- |
 | 1 | [动力港](https://www.jichangyyds.com/brands/dongligang/) | ¥8 | — | — | 低价走量 |
 | 2 | [拼好连](https://www.jichangyyds.com/brands/pinhaolian/) | ¥9.9 | — | — | 低价走量 |
-| 3 | [edgenova](https://www.jichangyyds.com/brands/edgenova/) | ¥15 | `EN888` | ¥12.75 | 低价走量 |
+| 3 | [edgenova](https://www.jichangyyds.com/brands/edgenova/) | ¥15 | `EN888` | — | 低价走量 |
 | 4 | [可信云](https://www.jichangyyds.com/brands/kexinyun/) | ¥15 | `KEXIN85` | ¥12.75 | 低价走量 |
 | 5 | [快狸](https://www.jichangyyds.com/brands/kuaili/) | ¥15 | — | — | 低价走量 |
-| 6 | [速界](https://www.jichangyyds.com/brands/sujie/) | ¥15 | `sj888` | ¥12.75 | 低价走量 |
+| 6 | [速界](https://www.jichangyyds.com/brands/sujie/) | ¥15 | `sj888` | — | 低价走量 |
 | 7 | [光速云](https://www.jichangyyds.com/brands/guangsuyun/) | ¥17 | — | — | 低价走量 |
 | 8 | [极连云](https://www.jichangyyds.com/brands/jilianyun/) | ¥18 | — | — | 低价走量 |
 | 9 | [光年梯](https://www.jichangyyds.com/brands/guangnianti/) | ¥18 | — | — | 低价走量 |
-| 10 | [无忧链接](https://www.jichangyyds.com/brands/wuyoulianjie/) | ¥19 | `wuyou666` | ¥12.92 | 主流性价比 |
+| 10 | [无忧链接](https://www.jichangyyds.com/brands/wuyoulianjie/) | ¥19 | `wuyou666` | — | 主流性价比 |
 | 11 | [唯兔云](https://www.jichangyyds.com/brands/weituyun/) | ¥19.9 | `rabbit` | ¥17.91 | 主流性价比 |
 | 12 | [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | ¥20 | `kuajie` | ¥16 | 主流性价比 |
-| 13 | [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | ¥20 | `1FLYYUN` | ¥18 | 主流性价比 |
-| 14 | [二猫云](https://www.jichangyyds.com/brands/ermaoyun/) | ¥20 | `ermao888` | — | 主流性价比 |
-| 15 | [全球云](https://www.jichangyyds.com/brands/quanqiuyun/) | ¥20 | — | — | 主流性价比 |
-| 16 | [U1S1](https://www.jichangyyds.com/brands/u1s1/) | ¥20 | `U1S1` | ¥17 | 主流性价比 |
-| 17 | [暮光加速](https://www.jichangyyds.com/brands/muguang/) | ¥20 | `mm88` | — | 主流性价比 |
+| 13 | [暮光加速](https://www.jichangyyds.com/brands/muguang/) | ¥20 | `mm88` | — | 主流性价比 |
+| 14 | [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | ¥20 | `1FLYYUN` | ¥18 | 主流性价比 |
+| 15 | [二猫云](https://www.jichangyyds.com/brands/ermaoyun/) | ¥20 | `ermao888` | — | 主流性价比 |
+| 16 | [全球云](https://www.jichangyyds.com/brands/quanqiuyun/) | ¥20 | — | — | 主流性价比 |
+| 17 | [U1S1](https://www.jichangyyds.com/brands/u1s1/) | ¥20 | `U1S1` | — | 主流性价比 |
 | 18 | [灵动云](https://www.jichangyyds.com/brands/lingdongyun/) | ¥20 | `ld88` | — | 主流性价比 |
-| 19 | [闪跃](https://www.jichangyyds.com/brands/shanyue/) | ¥24 | `shanyue` | ¥19.2 | 高价专线档 |
-| 20 | [隐形人](https://www.jichangyyds.com/brands/yinxingren/) | ¥24 | `yxr888` | — | 高价专线档 |
-| 21 | [飞猫云](https://www.jichangyyds.com/brands/feimaoyun/) | ¥25 | — | — | 高价专线档 |
-| 22 | [星岛梦](https://www.jichangyyds.com/brands/xingdaomeng/) | ¥25 | `nmw888` | ¥22.5 | 高价专线档 |
-| 23 | [sogo云](https://www.jichangyyds.com/brands/sogoyun/) | ¥25 | `SOGO88` | ¥22 | 高价专线档 |
-| 24 | [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | ¥25 | `YUZHOU553` | ¥20 | 高价专线档 |
-| 25 | [Firefly](https://www.jichangyyds.com/brands/firefly/) | ¥25 | `firefly` | ¥20 | 高价专线档 |
-| 26 | [FlyV](https://www.jichangyyds.com/brands/flyv/) | ¥25 | `fly20` | — | 高价专线档 |
-| 27 | [梯子云](https://www.jichangyyds.com/brands/tiziyun/) | ¥25 | `tiziyun` | — | 高价专线档 |
-| 28 | [微风网络](https://www.jichangyyds.com/brands/weifengwangluo/) | ¥27 | `weifeng90` | ¥18.9 | 高价专线档 |
-| 29 | [浪网](https://www.jichangyyds.com/brands/langwang/) | ¥30 | `lw88` | — | 高价专线档 |
-| 30 | [极速Cloud](https://www.jichangyyds.com/brands/jisucloud/) | ¥30 | `ikds88` | — | 高价专线档 |
+| 19 | [闪跃](https://www.jichangyyds.com/brands/shanyue/) | ¥24 | `shanyue` | — | 高价档 |
+| 20 | [隐形人](https://www.jichangyyds.com/brands/yinxingren/) | ¥24 | `yxr888` | — | 高价档 |
+| 21 | [飞猫云](https://www.jichangyyds.com/brands/feimaoyun/) | ¥25 | — | — | 高价档 |
+| 22 | [Firefly](https://www.jichangyyds.com/brands/firefly/) | ¥25 | `firefly` | — | 高价档 |
+| 23 | [星岛梦](https://www.jichangyyds.com/brands/xingdaomeng/) | ¥25 | `nmw888` | ¥22.5 | 高价档 |
+| 24 | [sogo云](https://www.jichangyyds.com/brands/sogoyun/) | ¥25 | `SOGO88` | ¥22 | 高价档 |
+| 25 | [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | ¥25 | `YUZHOU553` | ¥20 | 高价档 |
+| 26 | [FlyV](https://www.jichangyyds.com/brands/flyv/) | ¥25 | `fly20` | — | 高价档 |
+| 27 | [梯子云](https://www.jichangyyds.com/brands/tiziyun/) | ¥25 | `tiziyun` | — | 高价档 |
+| 28 | [微风网络](https://www.jichangyyds.com/brands/weifengwangluo/) | ¥27 | — | — | 高价档 |
+| 29 | [浪网](https://www.jichangyyds.com/brands/langwang/) | ¥30 | `lw88` | — | 高价档 |
+| 30 | [极速Cloud](https://www.jichangyyds.com/brands/jisucloud/) | ¥30 | `ikds88` | — | 高价档 |
 
 > ＊ 标记的价格不是已核实的真实月付（可能是年付折算、或含首月优惠）。
 > **「没查过」不等于「是对的」**，所以我们标出来而不是假装它是月付。
@@ -220,35 +396,35 @@
 | 11 | [拼好连](https://www.jichangyyds.com/brands/pinhaolian/) | 天天尝鲜拼 | 100GB / 月 | ¥9.9/月 | **¥0.10** |
 | 12 | [拼好连](https://www.jichangyyds.com/brands/pinhaolian/) | 万人好评拼 | 200GB / 月 | ¥19.9/月 | **¥0.10** |
 | 13 | [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | 舒享版 | 350GB / 月 | ¥35/月 | **¥0.10** |
-| 14 | [微风网络](https://www.jichangyyds.com/brands/weifengwangluo/) | 御风 (Mastery) | 1.2TB / 月 | ¥127/月 | **¥0.11** |
-| 15 | [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | 凌云 Soar | 830GB / 月 | ¥90/月 | **¥0.11** |
-| 16 | [微风网络](https://www.jichangyyds.com/brands/weifengwangluo/) | 破风 (Breaking) | 500GB / 月 | ¥57/月 | **¥0.11** |
-| 17 | [无忧链接](https://www.jichangyyds.com/brands/wuyoulianjie/) | 忘忧链接 | 1.0TB / 月 | ¥117/月 | **¥0.12** |
-| 18 | [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | 跃云 Leap | 330GB / 月 | ¥40/月 | **¥0.12** |
-| 19 | [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | 轻享版 | 150GB / 月 | ¥20/月 | **¥0.13** |
-| 20 | [闪跃](https://www.jichangyyds.com/brands/shanyue/) | 跃迁 Warp | 1.0TB / 月 | ¥134/月 | **¥0.13** |
-| 21 | [微风网络](https://www.jichangyyds.com/brands/weifengwangluo/) | 乘风 (Riding) | 200GB / 月 | ¥27/月 | **¥0.14** |
-| 22 | [闪跃](https://www.jichangyyds.com/brands/shanyue/) | 瞬移 Teleport | 600GB / 月 | ¥84/月 | **¥0.14** |
-| 23 | [Firefly](https://www.jichangyyds.com/brands/firefly/) | Firefly Blaze | 600GB / 月 | ¥85/月 | **¥0.14** |
-| 24 | [闪跃](https://www.jichangyyds.com/brands/shanyue/) | 飞跃 Leap | 300GB / 月 | ¥44/月 | **¥0.15** |
-| 25 | [Firefly](https://www.jichangyyds.com/brands/firefly/) | Firefly Plus | 300GB / 月 | ¥45/月 | **¥0.15** |
-| 26 | [Firefly](https://www.jichangyyds.com/brands/firefly/) | Firefly Nova | 1.0TB / 月 | ¥150/月 | **¥0.15** |
-| 27 | [无忧链接](https://www.jichangyyds.com/brands/wuyoulianjie/) | 随心链接 | 500GB / 月 | ¥77/月 | **¥0.15** |
-| 28 | [闪跃](https://www.jichangyyds.com/brands/shanyue/) | 闪动 Flicker | 150GB / 月 | ¥24/月 | **¥0.16** |
-| 29 | [无忧链接](https://www.jichangyyds.com/brands/wuyoulianjie/) | 省心链接 | 200GB / 月 | ¥33/月 | **¥0.17** |
-| 30 | [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | 轻云 Lite | 120GB / 月 | ¥20/月 | **¥0.17** |
-| 31 | [Firefly](https://www.jichangyyds.com/brands/firefly/) | Firefly Lite | 150GB / 月 | ¥25/月 | **¥0.17** |
-| 32 | [无忧链接](https://www.jichangyyds.com/brands/wuyoulianjie/) | 舒心链接 | 100GB / 月 | ¥19/月 | **¥0.19** |
-| 33 | [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | 寰宇旗舰版 | 1024GB / 月 | ¥200/月 | **¥0.20** |
-| 34 | [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | 星系专业版 | 500GB / 月 | ¥100/月 | **¥0.20** |
-| 35 | [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | 行星基础版 | 120GB / 月 | ¥25/月 | **¥0.21** |
-| 36 | [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | 恒星标准版 | 240GB / 月 | ¥50/月 | **¥0.21** |
-| 37 | [极速Cloud](https://www.jichangyyds.com/brands/jisucloud/) | 月付-1000G | 100GB / 月（标称1000G·倍率10倍） | ¥30/月 | **¥0.30** |
-| 38 | [极速Cloud](https://www.jichangyyds.com/brands/jisucloud/) | 月付-1500G | 150GB / 月（标称1500G·倍率10倍） | ¥45/月 | **¥0.30** |
-| 39 | [极速Cloud](https://www.jichangyyds.com/brands/jisucloud/) | 月付-2000G | 200GB / 月（标称2000G·倍率10倍） | ¥60/月 | **¥0.30** |
-| 40 | [极速Cloud](https://www.jichangyyds.com/brands/jisucloud/) | 月付-3000G | 300GB / 月（标称3000G·倍率10倍） | ¥90/月 | **¥0.30** |
+| 14 | [浪网](https://www.jichangyyds.com/brands/langwang/) | 商业 | 2000GB / 月 | ¥200/月 | **¥0.10** |
+| 15 | [FlyV](https://www.jichangyyds.com/brands/flyv/) | 商业方案 | 1843GB / 月 | ¥190/月 | **¥0.10** |
+| 16 | [微风网络](https://www.jichangyyds.com/brands/weifengwangluo/) | 御风 (Mastery) | 1.2TB / 月 | ¥127/月 | **¥0.11** |
+| 17 | [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | 凌云 Soar | 830GB / 月 | ¥90/月 | **¥0.11** |
+| 18 | [微风网络](https://www.jichangyyds.com/brands/weifengwangluo/) | 破风 (Breaking) | 500GB / 月 | ¥57/月 | **¥0.11** |
+| 19 | [隐形人](https://www.jichangyyds.com/brands/yinxingren/) | 钻石穹顶 | 1600GB / 月 | ¥185/月 | **¥0.12** |
+| 20 | [无忧链接](https://www.jichangyyds.com/brands/wuyoulianjie/) | 忘忧链接 | 1.0TB / 月 | ¥117/月 | **¥0.12** |
+| 21 | [梯子云](https://www.jichangyyds.com/brands/tiziyun/) | 顶阶商业 · 全球骨干 | 1600GB / 月 | ¥190/月 | **¥0.12** |
+| 22 | [暮光加速](https://www.jichangyyds.com/brands/muguang/) | 至尊版 | 1500GB / 月 | ¥180/月 | **¥0.12** |
+| 23 | [灵动云](https://www.jichangyyds.com/brands/lingdongyun/) | 凌霄 | 1500GB / 月 | ¥180/月 | **¥0.12** |
+| 24 | [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | 跃云 Leap | 330GB / 月 | ¥40/月 | **¥0.12** |
+| 25 | [FlyV](https://www.jichangyyds.com/brands/flyv/) | 进阶方案 | 380GB / 月 | ¥50/月 | **¥0.13** |
+| 26 | [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | 轻享版 | 150GB / 月 | ¥20/月 | **¥0.13** |
+| 27 | [隐形人](https://www.jichangyyds.com/brands/yinxingren/) | 黄金序列 | 360GB / 月 | ¥48/月 | **¥0.13** |
+| 28 | [闪跃](https://www.jichangyyds.com/brands/shanyue/) | 跃迁 Warp | 1.0TB / 月 | ¥134/月 | **¥0.13** |
+| 29 | [微风网络](https://www.jichangyyds.com/brands/weifengwangluo/) | 乘风 (Riding) | 200GB / 月 | ¥27/月 | **¥0.14** |
+| 30 | [FlyV](https://www.jichangyyds.com/brands/flyv/) | 高端方案 | 800GB / 月 | ¥110/月 | **¥0.14** |
+| 31 | [闪跃](https://www.jichangyyds.com/brands/shanyue/) | 瞬移 Teleport | 600GB / 月 | ¥84/月 | **¥0.14** |
+| 32 | [快狸](https://www.jichangyyds.com/brands/kuaili/) | 灵狸标准版 | 250GB / 月 | ¥35/月 | **¥0.14** |
+| 33 | [隐形人](https://www.jichangyyds.com/brands/yinxingren/) | 铂金至臻 | 750GB / 月 | ¥105/月 | **¥0.14** |
+| 34 | [Firefly](https://www.jichangyyds.com/brands/firefly/) | Firefly Blaze | 600GB / 月 | ¥85/月 | **¥0.14** |
+| 35 | [暮光加速](https://www.jichangyyds.com/brands/muguang/) | 旗舰版 | 700GB / 月 | ¥100/月 | **¥0.14** |
+| 36 | [灵动云](https://www.jichangyyds.com/brands/lingdongyun/) | 破晓 | 700GB / 月 | ¥100/月 | **¥0.14** |
+| 37 | [闪跃](https://www.jichangyyds.com/brands/shanyue/) | 飞跃 Leap | 300GB / 月 | ¥44/月 | **¥0.15** |
+| 38 | [梯子云](https://www.jichangyyds.com/brands/tiziyun/) | 高阶专线 · 全球智联 | 750GB / 月 | ¥110/月 | **¥0.15** |
+| 39 | [Firefly](https://www.jichangyyds.com/brands/firefly/) | Firefly Plus | 300GB / 月 | ¥45/月 | **¥0.15** |
+| 40 | [Firefly](https://www.jichangyyds.com/brands/firefly/) | Firefly Nova | 1.0TB / 月 | ¥150/月 | **¥0.15** |
 
-> 共 42 个可计算套餐，此处列出最便宜的 40 个。
+> 共 76 个可计算套餐，此处列出最便宜的 40 个。
 
 > ⚠️ **每 GB 便宜不等于划算。** 大流量套餐摊薄了单价，但如果你一个月只用 50GB，
 > 买 1TB 的套餐每 GB 再便宜也是浪费。先估自己的实际用量，方法见
@@ -323,25 +499,25 @@
 
 | 机场品牌 | 评分 | 计分维度 | 逐项得分 |
 | --- | ---: | ---: | --- |
-| [edgenova](https://www.jichangyyds.com/brands/edgenova/) | **4.5** / 5 | 5 | 价格竞争力 0.94/1.2；本站实测 1.20/1.2；实测下载速度 1.00/1；流媒体与 AI 解锁 1.00/1；节点规模 0.25/0.6 |
-| [可信云](https://www.jichangyyds.com/brands/kexinyun/) | **4.5** / 5 | 5 | 价格竞争力 0.94/1.2；本站实测 1.20/1.2；实测下载速度 0.98/1；流媒体与 AI 解锁 1.00/1；节点规模 0.30/0.6 |
-| [速界](https://www.jichangyyds.com/brands/sujie/) | **4.5** / 5 | 5 | 价格竞争力 0.94/1.2；本站实测 1.20/1.2；实测下载速度 0.96/1；流媒体与 AI 解锁 1.00/1；节点规模 0.31/0.6 |
-| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | **4.4** / 5 | 5 | 价格竞争力 0.65/1.2；本站实测 1.20/1.2；实测下载速度 1.00/1；流媒体与 AI 解锁 0.88/1；节点规模 0.51/0.6 |
-| [光年梯](https://www.jichangyyds.com/brands/guangnianti/) | **4.4** / 5 | 5 | 价格竞争力 0.65/1.2；本站实测 1.20/1.2；实测下载速度 0.98/1；流媒体与 AI 解锁 1.00/1；节点规模 0.37/0.6 |
-| [快狸](https://www.jichangyyds.com/brands/kuaili/) | **4.4** / 5 | 5 | 价格竞争力 0.82/1.2；本站实测 1.20/1.2；实测下载速度 1.00/1；流媒体与 AI 解锁 1.00/1；节点规模 0.23/0.6 |
-| [光速云](https://www.jichangyyds.com/brands/guangsuyun/) | **4.3** / 5 | 5 | 价格竞争力 0.71/1.2；本站实测 1.20/1.2；实测下载速度 0.94/1；流媒体与 AI 解锁 1.00/1；节点规模 0.29/0.6 |
-| [极连云](https://www.jichangyyds.com/brands/jilianyun/) | **4.3** / 5 | 5 | 价格竞争力 0.65/1.2；本站实测 1.20/1.2；实测下载速度 1.00/1；流媒体与 AI 解锁 1.00/1；节点规模 0.33/0.6 |
-| [二猫云](https://www.jichangyyds.com/brands/ermaoyun/) | **4.2** / 5 | 5 | 价格竞争力 0.55/1.2；本站实测 1.20/1.2；实测下载速度 0.98/1；流媒体与 AI 解锁 1.00/1；节点规模 0.24/0.6 |
-| [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | **4.2** / 5 | 5 | 价格竞争力 0.55/1.2；本站实测 1.20/1.2；实测下载速度 0.94/1；流媒体与 AI 解锁 1.00/1；节点规模 0.36/0.6 |
-| [唯兔云](https://www.jichangyyds.com/brands/weituyun/) | **4.1** / 5 | 5 | 价格竞争力 0.66/1.2；本站实测 1.20/1.2；实测下载速度 0.98/1；流媒体与 AI 解锁 0.80/1；节点规模 0.18/0.6 |
-| [sogo云](https://www.jichangyyds.com/brands/sogoyun/) | **4.1** / 5 | 5 | 价格竞争力 0.44/1.2；本站实测 1.20/1.2；实测下载速度 1.00/1；流媒体与 AI 解锁 1.00/1；节点规模 0.27/0.6 |
-| [星岛梦](https://www.jichangyyds.com/brands/xingdaomeng/) | **4.0** / 5 | 5 | 价格竞争力 0.41/1.2；本站实测 1.20/1.2；实测下载速度 0.55/1；流媒体与 AI 解锁 1.00/1；节点规模 0.53/0.6 |
-| [U1S1](https://www.jichangyyds.com/brands/u1s1/) | **3.9** / 5 | 5 | 价格竞争力 0.71/1.2；本站实测 1.20/1.2；实测下载速度 0.40/1；流媒体与 AI 解锁 1.00/1；节点规模 0.29/0.6 |
-| [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | **3.8** / 5 | 3 | 价格竞争力 0.76/1.2；本站实测 0.60/1.2；流媒体与 AI 解锁 1.00/1 |
-| [飞猫云](https://www.jichangyyds.com/brands/feimaoyun/) | **3.7** / 5 | 5 | 价格竞争力 0.27/1.2；本站实测 1.20/1.2；实测下载速度 0.60/1；流媒体与 AI 解锁 0.75/1；节点规模 0.53/0.6 |
-| [闪跃](https://www.jichangyyds.com/brands/shanyue/) | **3.6** / 5 | 3 | 价格竞争力 0.59/1.2；本站实测 0.60/1.2；流媒体与 AI 解锁 1.00/1 |
-| [全球云](https://www.jichangyyds.com/brands/quanqiuyun/) | **3.5** / 5 | 5 | 价格竞争力 0.55/1.2；本站实测 1.20/1.2；实测下载速度 0.33/1；流媒体与 AI 解锁 0.90/1；节点规模 0.20/0.6 |
-| [动力港](https://www.jichangyyds.com/brands/dongligang/) | **3.2** / 5 | 3 | 价格竞争力 1.20/1.2；本站实测 0.00/1.2；节点规模 0.42/0.6 |
+| [可信云](https://www.jichangyyds.com/brands/kexinyun/) | **4.4** / 5 | 5 | 价格竞争力 0.77/1.2；本站实测 1.20/1.2；实测下载速度 0.98/1；流媒体与 AI 解锁 1.00/1；节点规模 0.30/0.6 |
+| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | **4.3** / 5 | 5 | 价格竞争力 0.53/1.2；本站实测 1.20/1.2；实测下载速度 1.00/1；流媒体与 AI 解锁 0.88/1；节点规模 0.51/0.6 |
+| [光年梯](https://www.jichangyyds.com/brands/guangnianti/) | **4.3** / 5 | 5 | 价格竞争力 0.53/1.2；本站实测 1.20/1.2；实测下载速度 0.98/1；流媒体与 AI 解锁 1.00/1；节点规模 0.37/0.6 |
+| [edgenova](https://www.jichangyyds.com/brands/edgenova/) | **4.3** / 5 | 5 | 价格竞争力 0.67/1.2；本站实测 1.20/1.2；实测下载速度 1.00/1；流媒体与 AI 解锁 1.00/1；节点规模 0.25/0.6 |
+| [快狸](https://www.jichangyyds.com/brands/kuaili/) | **4.3** / 5 | 5 | 价格竞争力 0.67/1.2；本站实测 1.20/1.2；实测下载速度 1.00/1；流媒体与 AI 解锁 1.00/1；节点规模 0.23/0.6 |
+| [速界](https://www.jichangyyds.com/brands/sujie/) | **4.3** / 5 | 5 | 价格竞争力 0.67/1.2；本站实测 1.20/1.2；实测下载速度 0.96/1；流媒体与 AI 解锁 1.00/1；节点规模 0.31/0.6 |
+| [光速云](https://www.jichangyyds.com/brands/guangsuyun/) | **4.2** / 5 | 5 | 价格竞争力 0.58/1.2；本站实测 1.20/1.2；实测下载速度 0.94/1；流媒体与 AI 解锁 1.00/1；节点规模 0.29/0.6 |
+| [极连云](https://www.jichangyyds.com/brands/jilianyun/) | **4.2** / 5 | 5 | 价格竞争力 0.53/1.2；本站实测 1.20/1.2；实测下载速度 1.00/1；流媒体与 AI 解锁 1.00/1；节点规模 0.33/0.6 |
+| [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | **4.2** / 5 | 5 | 价格竞争力 0.44/1.2；本站实测 1.20/1.2；实测下载速度 0.94/1；流媒体与 AI 解锁 1.00/1；节点规模 0.36/0.6 |
+| [二猫云](https://www.jichangyyds.com/brands/ermaoyun/) | **4.1** / 5 | 5 | 价格竞争力 0.44/1.2；本站实测 1.20/1.2；实测下载速度 0.98/1；流媒体与 AI 解锁 1.00/1；节点规模 0.24/0.6 |
+| [sogo云](https://www.jichangyyds.com/brands/sogoyun/) | **4.1** / 5 | 5 | 价格竞争力 0.36/1.2；本站实测 1.20/1.2；实测下载速度 1.00/1；流媒体与 AI 解锁 1.00/1；节点规模 0.27/0.6 |
+| [唯兔云](https://www.jichangyyds.com/brands/weituyun/) | **4.0** / 5 | 5 | 价格竞争力 0.54/1.2；本站实测 1.20/1.2；实测下载速度 0.98/1；流媒体与 AI 解锁 0.80/1；节点规模 0.18/0.6 |
+| [星岛梦](https://www.jichangyyds.com/brands/xingdaomeng/) | **3.9** / 5 | 5 | 价格竞争力 0.33/1.2；本站实测 1.20/1.2；实测下载速度 0.55/1；流媒体与 AI 解锁 1.00/1；节点规模 0.53/0.6 |
+| [U1S1](https://www.jichangyyds.com/brands/u1s1/) | **3.7** / 5 | 5 | 价格竞争力 0.44/1.2；本站实测 1.20/1.2；实测下载速度 0.40/1；流媒体与 AI 解锁 1.00/1；节点规模 0.29/0.6 |
+| [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | **3.6** / 5 | 3 | 价格竞争力 0.62/1.2；本站实测 0.60/1.2；流媒体与 AI 解锁 1.00/1 |
+| [飞猫云](https://www.jichangyyds.com/brands/feimaoyun/) | **3.6** / 5 | 5 | 价格竞争力 0.22/1.2；本站实测 1.20/1.2；实测下载速度 0.60/1；流媒体与 AI 解锁 0.75/1；节点规模 0.53/0.6 |
+| [全球云](https://www.jichangyyds.com/brands/quanqiuyun/) | **3.5** / 5 | 5 | 价格竞争力 0.44/1.2；本站实测 1.20/1.2；实测下载速度 0.33/1；流媒体与 AI 解锁 0.90/1；节点规模 0.20/0.6 |
+| [闪跃](https://www.jichangyyds.com/brands/shanyue/) | **3.2** / 5 | 3 | 价格竞争力 0.27/1.2；本站实测 0.60/1.2；流媒体与 AI 解锁 1.00/1 |
+| [动力港](https://www.jichangyyds.com/brands/dongligang/) | **2.9** / 5 | 3 | 价格竞争力 0.98/1.2；本站实测 0.00/1.2；节点规模 0.42/0.6 |
 
 > 🛑 **评分与推荐榜顺序无关。**
 > 推荐榜含合作关系，评分是算出来的。两者矛盾时，**评分反映数据，榜单反映商业**。
@@ -376,24 +552,111 @@
 
 | 场景 | 符合的品牌数 | 该场景下的前三 |
 | --- | ---: | --- |
-| [便宜机场推荐](docs/scenarios/性价比机场推荐-便宜机场排行.md) | 9 | 拼好连、动力港、edgenova |
-| [稳定机场推荐](docs/scenarios/稳定机场推荐.md) | 21 | 跨界云、微风网络、飞猫云 |
-| [专线机场推荐](docs/scenarios/专线机场推荐.md) | 12 | 微风网络、飞猫云、极速Cloud |
-| [机场优惠码推荐](docs/scenarios/coupon.md) | 22 | 跨界云、微风网络、一翻云 |
+| [便宜机场推荐](docs/scenarios/性价比机场推荐-便宜机场排行.md) | 18 | 拼好连、杏花云、宝云 |
+| [稳定机场推荐](docs/scenarios/稳定机场推荐.md) | 27 | 跨界云、微风网络、飞猫云 |
+| [专线机场推荐](docs/scenarios/专线机场推荐.md) | 17 | 微风网络、飞猫云、极速Cloud |
+| [机场优惠码推荐](docs/scenarios/coupon.md) | 22 | 跨界云、一翻云、极速Cloud |
 | [Clash 机场推荐](docs/scenarios/clash机场推荐-机场推荐clash.md) | 24 | 跨界云、微风网络、飞猫云 |
 | [Shadowrocket 机场推荐](docs/scenarios/shadowrocket.md) | 24 | 跨界云、微风网络、飞猫云 |
 | [v2rayN 机场推荐](docs/scenarios/v2rayn.md) | 24 | 跨界云、微风网络、飞猫云 |
 | [sing-box 机场推荐](docs/scenarios/sing-box.md) | 24 | 跨界云、微风网络、飞猫云 |
 | [圈 X 机场推荐](docs/scenarios/quantumult-x.md) | 24 | 跨界云、微风网络、飞猫云 |
-| [ChatGPT 机场推荐](docs/scenarios/chatgpt.md) | 21 | 跨界云、微风网络、飞猫云 |
-| [流媒体解锁机场推荐](docs/scenarios/streaming.md) | 21 | 跨界云、微风网络、飞猫云 |
-| [晚高峰稳定机场推荐](docs/scenarios/peak-hour.md) | 21 | 跨界云、微风网络、飞猫云 |
-| [游戏低延迟机场推荐](docs/scenarios/gaming.md) | 21 | 跨界云、微风网络、飞猫云 |
-| [免费试用机场推荐](docs/scenarios/机场试用-免费试用机场推荐.md) | 9 | 拼好连、动力港、edgenova |
+| [ChatGPT 机场推荐](docs/scenarios/chatgpt.md) | 27 | 跨界云、微风网络、飞猫云 |
+| [流媒体解锁机场推荐](docs/scenarios/streaming.md) | 27 | 跨界云、微风网络、飞猫云 |
+| [晚高峰稳定机场推荐](docs/scenarios/peak-hour.md) | 27 | 跨界云、微风网络、飞猫云 |
+| [游戏低延迟机场推荐](docs/scenarios/gaming.md) | 27 | 跨界云、微风网络、飞猫云 |
+| [免费试用机场推荐](docs/scenarios/机场试用-免费试用机场推荐.md) | 18 | 拼好连、杏花云、宝云 |
 | [梯子推荐](docs/scenarios/梯子推荐-机场梯子怎么选.md) | 24 | 跨界云、微风网络、飞猫云 |
 
 > 表里的「前三」按各场景自己的筛选条件取，**不是推荐榜顺序**。
 > 完整筛选标准与完整名单见 [场景选购指南](docs/scenarios.md)。
+
+---
+
+## 客户端推荐
+
+先查你要买的机场给不给订阅链接，再挑客户端。30 家里有 12 家暂不提供订阅链接，买回去只能用它自己的 App，第三方客户端装了也导不进。
+
+**30 家的订阅方式（中央库记录，以各家公告为准）**
+
+| 订阅方式 | 家数 | 品牌 |
+| --- | ---: | --- |
+| 官方客户端登录即用（第三方客户端是否可用见逐家速览） | 2 | 跨界云、一翻云 |
+| 提供订阅链接，部分第三方客户端不支持 | 7 | 微风网络、飞猫云、闪跃、星岛梦、光速云、二猫云、全球云 |
+| 暂不提供订阅链接，只能用自家客户端 | 12 | Firefly、无忧链接、唯兔云、U1S1、极连云、光年梯、edgenova、可信云、快狸、sogo云、速界、宇宙云 |
+| 待核实 | 7 | 暮光加速、FlyV、梯子云、浪网、灵动云、隐形人、拼好连 |
+| 未写明 | 2 | 极速Cloud、动力港 |
+
+**提供订阅链接时，常用客户端**（只列官方发布页，第三方下载站的安装包不要用）：
+
+- Windows / macOS / Linux：Clash Verge Rev（https://github.com/clash-verge-rev/clash-verge-rev）、v2rayN（https://github.com/2dust/v2rayN）
+- 安卓：FlClash（https://github.com/chen08209/FlClash）、v2rayNG（https://github.com/2dust/v2rayNG）
+- iPhone / iPad：Shadowrocket，在 App Store 上架，中国大陆区账号搜不到
+- 内核：mihomo（https://github.com/MetaCubeX/mihomo）、sing-box（https://github.com/SagerNet/sing-box）
+
+按客户端选机场的完整名单见上面「按场景怎么选」里的 Clash、Shadowrocket、v2rayN、sing-box、圈 X 五个场景。
+
+---
+
+## 协议问答：AnyTLS、REALITY、Hysteria 2
+
+机场的节点列表里常能见到这三个名字。这一节只写各项目官方文档里写明的事实，每条附出处；哪家机场用了哪种协议，中央库目前只有 4 家有记录（都是 VLESS），其余未写明。
+
+**Q：AnyTLS 是什么？**
+官方说明：一个试图缓解嵌套 TLS 握手指纹（TLS in TLS）问题的代理协议，`anytls-go` 是它的参考实现。官方 README 列出的兼容软件：sing-box、mihomo 都包含 AnyTLS 的服务端和客户端；Shadowrocket 2.2.65 起实现了 AnyTLS 客户端，Stash、Loon 等已跟进适配。sing-box 文档标注从 1.12.0 版起支持。
+出处：https://github.com/anytls/anytls-go · https://github.com/SagerNet/sing-box/blob/main/docs/configuration/outbound/anytls.md
+
+**Q：REALITY 是什么，和 VLESS 什么关系？**
+REALITY 项目自述是 REALITY 协议的服务端实现，基于 Go 标准库 tls 包修改而来；客户端实现在 Xray-core 里。官方给的示例是 VLESS + XTLS + uTLS + REALITY 的组合：服务端配置里要填一个 `target`（一个真实网站的 443 端口）、`serverNames`、x25519 私钥和 `shortIds`。所以常说的「VLESS Reality」是 VLESS 协议加上 REALITY 这层传输安全设置，不是两个互相替代的协议。
+出处：https://github.com/XTLS/REALITY
+
+**Q：Hysteria 2 是什么？**
+官方说明：Hysteria 基于定制的 QUIC 协议，面向不稳定、丢包的网络设计；官方称协议伪装成标准 HTTP/3 流量。QUIC 跑在 UDP 上，所以它要求你所在的网络放行 UDP。sing-box 有 hysteria2 出站类型。
+出处：https://github.com/apernet/hysteria · https://v2.hysteria.network/zh/
+
+**Q：选机场时要不要按协议挑？**
+先按客户端挑。协议要客户端支持才能用：同一个节点，客户端不认这个协议，导进去就是灰的。上面三种，官方文档里写明支持的客户端各不相同，以你手上那个客户端的版本说明为准。
+
+---
+
+## 按订阅方式、流量重置筛选（30 家）
+
+全部从中央库现算。**设备数与限速**：中央库对这 30 家都没有逐家记录，表里照实写「未写明」，下单前请在该家套餐页确认，不要按别处的说法默认。
+
+| 机场品牌 | 订阅方式 | 流量重置 | 不限时流量包 | 设备数 | 限速 |
+| --- | --- | --- | --- | --- | --- |
+| [动力港](https://www.jichangyyds.com/brands/dongligang/) | 未写明 | 按月 | 有（3 种） | 未写明 | 未写明 |
+| [拼好连](https://www.jichangyyds.com/brands/pinhaolian/) | 待核实 | 按月 | 有（1 种） | 未写明 | 未写明 |
+| [edgenova](https://www.jichangyyds.com/brands/edgenova/) | 暂不提供订阅链接，只能用它自己的客户端 | 未写明 | 未写明 | 未写明 | 未写明 |
+| [可信云](https://www.jichangyyds.com/brands/kexinyun/) | 暂不提供订阅链接，只能用它自己的客户端 | 未写明 | 未写明 | 未写明 | 未写明 |
+| [快狸](https://www.jichangyyds.com/brands/kuaili/) | 暂不提供订阅链接，只能用它自己的客户端 | 部分档位重置周期未核对 | 未写明 | 未写明 | 未写明 |
+| [速界](https://www.jichangyyds.com/brands/sujie/) | 暂不提供订阅链接，只能用它自己的客户端 | 部分档位重置周期未核对 | 未写明 | 未写明 | 未写明 |
+| [光速云](https://www.jichangyyds.com/brands/guangsuyun/) | 提供订阅链接，部分第三方客户端不支持 | 未写明 | 未写明 | 未写明 | 未写明 |
+| [极连云](https://www.jichangyyds.com/brands/jilianyun/) | 暂不提供订阅链接，只能用它自己的客户端 | 未写明 | 未写明 | 未写明 | 未写明 |
+| [光年梯](https://www.jichangyyds.com/brands/guangnianti/) | 暂不提供订阅链接，只能用它自己的客户端 | 未写明 | 未写明 | 未写明 | 未写明 |
+| [无忧链接](https://www.jichangyyds.com/brands/wuyoulianjie/) | 暂不提供订阅链接，只能用它自己的客户端 | 按月 | 有（2 种） | 未写明 | 未写明 |
+| [唯兔云](https://www.jichangyyds.com/brands/weituyun/) | 暂不提供订阅链接，只能用它自己的客户端 | 未写明 | 未写明 | 未写明 | 未写明 |
+| [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | 官方客户端免订阅，也支持第三方客户端 | 按月 | 有（1 种） | 未写明 | 未写明 |
+| [暮光加速](https://www.jichangyyds.com/brands/muguang/) | 待核实 | 部分档位重置周期未核对 | 有（3 种） | 未写明 | 未写明 |
+| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | 只用官方客户端（不提供第三方订阅） | 按月 | 有（3 种） | 未写明 | 未写明 |
+| [二猫云](https://www.jichangyyds.com/brands/ermaoyun/) | 提供订阅链接，部分第三方客户端不支持 | 未写明 | 未写明 | 未写明 | 未写明 |
+| [全球云](https://www.jichangyyds.com/brands/quanqiuyun/) | 提供订阅链接，部分第三方客户端不支持 | 未写明 | 未写明 | 未写明 | 未写明 |
+| [U1S1](https://www.jichangyyds.com/brands/u1s1/) | 暂不提供订阅链接，只能用它自己的客户端 | 未写明 | 未写明 | 未写明 | 未写明 |
+| [灵动云](https://www.jichangyyds.com/brands/lingdongyun/) | 待核实 | 部分档位重置周期未核对 | 有（3 种） | 未写明 | 未写明 |
+| [闪跃](https://www.jichangyyds.com/brands/shanyue/) | 提供订阅链接，部分第三方客户端不支持 | 按月 | 未写明 | 未写明 | 未写明 |
+| [隐形人](https://www.jichangyyds.com/brands/yinxingren/) | 待核实 | 部分档位重置周期未核对 | 有（3 种） | 未写明 | 未写明 |
+| [飞猫云](https://www.jichangyyds.com/brands/feimaoyun/) | 提供订阅链接，部分第三方客户端不支持 | 未写明 | 未写明 | 未写明 | 未写明 |
+| [Firefly](https://www.jichangyyds.com/brands/firefly/) | 暂不提供订阅链接，只能用它自己的客户端 | 按月 | 有（1 种） | 未写明 | 未写明 |
+| [星岛梦](https://www.jichangyyds.com/brands/xingdaomeng/) | 提供订阅链接，部分第三方客户端不支持 | 未写明 | 未写明 | 未写明 | 未写明 |
+| [sogo云](https://www.jichangyyds.com/brands/sogoyun/) | 暂不提供订阅链接，只能用它自己的客户端 | 未写明 | 未写明 | 未写明 | 未写明 |
+| [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | 暂不提供订阅链接，只能用它自己的客户端 | 按月 | 未写明 | 未写明 | 未写明 |
+| [FlyV](https://www.jichangyyds.com/brands/flyv/) | 待核实 | 部分档位重置周期未核对 | 有（3 种） | 未写明 | 未写明 |
+| [梯子云](https://www.jichangyyds.com/brands/tiziyun/) | 待核实 | 部分档位重置周期未核对 | 有（3 种） | 未写明 | 未写明 |
+| [微风网络](https://www.jichangyyds.com/brands/weifengwangluo/) | 提供订阅链接，部分第三方客户端不支持 | 按月 | 有（2 种） | 未写明 | 未写明 |
+| [浪网](https://www.jichangyyds.com/brands/langwang/) | 待核实 | 部分档位重置周期未核对 | 有（3 种） | 未写明 | 未写明 |
+| [极速Cloud](https://www.jichangyyds.com/brands/jisucloud/) | 未写明 | 按月 | 未写明 | 未写明 | 未写明 |
+
+> 「按月」= 中央库记录的每个套餐流量都写明「/ 月」。「未写明」只表示中央库没有记录，**不等于没有**。
 
 ---
 
@@ -733,15 +996,34 @@ IEPL 指国际以太网专线，同样是运营商专线产品，与 IPLC 定位
 | [机场是什么？和 VPN、梯子到底有什么区别](docs/articles/jichang-shi-shenme.md) | 2026-06-18 | 机场是中文圈对代理节点订阅服务的俗称，和航空没有任何关系。本文讲清机场与传统 VPN 在架构和计费上的实际差异、为什么民… |
 | [IPLC、IEPL、中转、直连有什么区别？为什么专线机场贵三倍](docs/articles/iplc-iepl-zhongzhuan-zhilian.md) | 2026-06-24 | 同样是「香港节点」，为什么有的机场卖 ¥10、有的卖 ¥40？差别几乎全在线路架构上。本文拆解 IPLC、IEPL、中转… |
 | [怎么判断一家机场会不会跑路？六个前兆与下单前自查清单](docs/articles/ruhe-panduan-jichang-paolu.md) | 2026-06-30 | 机场跑路极少毫无征兆。本文总结六个可提前识别的跑路前兆——客服响应变慢或消失、力度异常的年付促销、节点持续减少却不作解释… |
-| [Clash 订阅导入完整教程：Verge、Meta 与规则分流配置](docs/articles/clash订阅导入教程-机场订阅怎么用.md) | 2026-07-05 | Clash Verge Rev 与 Clash Meta（Mihomo）的订阅导入完整步骤，从拿到订阅链接到能正常上网一… |
+| [Clash 订阅导入完整教程：Verge、Meta 与规则分流配置](docs/articles/clash订阅导入教程-机场订阅怎么用.md) | 2026-07-05 | 从拿到订阅链接到节点能用，一共四步。本文给 Clash Verge Rev 与 Mihomo 的完整导入流程，以及导入失… |
 | [机场晚高峰卡怎么办？先搞清楚是超售还是你自己的问题](docs/articles/wangaofeng-ka-zenme-ban.md) | 2026-07-09 | 白天好好的、一到晚上八点就卡成 PPT，这是机场用户最高频的抱怨。本文拆解晚高峰卡顿的三类成因——机场超售、公网出口拥堵… |
-| [机场节点地区怎么选：港台日新美各适合什么场景](docs/articles/机场节点地区怎么选.md) | 2026-07-12 | 节点地区不是随便挑一个延迟最低的就完事。本文按物理距离、片库归属、风控严格度三个维度，讲清香港节点、日本节点、美国节点各… |
+| [机场节点地区怎么选：港台日新美各适合什么场景](docs/articles/机场节点地区怎么选.md) | 2026-07-12 | 大多数人只需要固定两三个地区，不必每次挑延迟最低的。本文按物理距离、片库归属、风控严格度，说明香港、日本、美国节点各自适… |
 | [机场流量倍率是什么意思？套餐额度和按量计费怎么算](docs/articles/liuliang-beilv-taocan.md) | 2026-07-15 | 节点名里的 1x、2x 决定你的流量掉得多快，这是新手最容易忽略的坑。本文讲清机场流量倍率怎么计算、月付套餐和按量计费机… |
 | [Shadowrocket 机场推荐：小火箭用户该怎么挑订阅](docs/articles/shadowrocket-jichang-tuijian.md) | 2026-07-17 | 小火箭本身不提供节点，它只是个客户端，真正决定体验的是你导入的机场订阅。本文讲清 Shadowrocket 机场推荐里该… |
 | [v2rayN 机场推荐：Windows 和安卓端怎么用、怎么选订阅](docs/articles/v2rayn-jichang-tuijian.md) | 2026-07-19 | v2rayN 和 v2rayNG 是 Windows 与安卓上最常见的免费客户端，但它们只负责解析订阅，体验取决于机场。… |
 | [ChatGPT 机场推荐：用 AI 工具到底该选什么样的节点](docs/articles/chatgpt-jichang-tuijian.md) | 2026-07-21 | AI 工具的风控比流媒体严得多，关键不在速度而在落地 IP 的类型和稳定性。本文讲清原生 IP、机房 IP、住宅 IP … |
 | [流媒体解锁机场怎么选：Netflix、Disney+、HBO 的解锁逻辑](docs/articles/liumeiti-jiesuo-jichang.md) | 2026-07-22 | 解锁不是一个开关，而是分等级的。本文讲清全解锁和仅自制剧的区别、为什么该按你想看的内容选落地地区而不是按速度、4K 需要… |
 | [节点全部超时怎么办？Clash / Shadowrocket / v2rayN / NekoBox 全部 timeout 排查](docs/articles/jiedian-quanbu-timeout.md) | 2026-08-14 | 客户端里所有节点都显示 timeout、failed 或 error，一个都连不上。本文按卡点分层排查：先分清是本机还是… |
+
+---
+
+## 入门与步骤（10 篇）
+
+按步骤写的操作页，每页附中央库的统计口径。
+
+| 页面 | 讲什么 |
+| --- | --- |
+| [VPN 推荐：成品 VPN 和机场怎么选](docs/rumen/VPN推荐-成品VPN和机场怎么选.md) | 成品 VPN 是装好就连的 App，机场卖订阅、要自己配客户端。按设备数、是否需要分流、出问题能否自查三条来选；本页不点名任何成品 VPN 品牌。 |
+| [Clash Verge 订阅链接导入与更新失败](docs/rumen/clash-verge订阅链接导入与更新失败.md) | Clash Verge Rev 导入订阅只要三步：「订阅」页粘贴链接、点「导入」、选中后启用。本页按它界面上的报错原文逐条给出原因和处理办法。 |
+| [Clash 节点从哪来、怎么看好坏](docs/rumen/clash节点从哪来-怎么看好坏.md) | Clash 节点来自机场订阅，订阅更新时客户端拉取节点列表。看好坏用三件事：同一时段的延迟分布、晚高峰实际可用、流量倍率。本页不涉及任何免费节点来源。 |
+| [怎么翻墙：三步从零到能用](docs/rumen/怎么翻墙-三步从零到能用.md) | 怎么翻墙的操作步骤：选一个有订阅链接的机场、装对客户端、导入订阅并打开系统代理，附每一步最常见的卡点。 |
+| [机场节点怎么买：下单前查五项](docs/rumen/机场节点怎么买-下单前查五项.md) | 节点不能单买，买的是机场套餐的订阅。下单前查五项：订阅方式、倍率、设备数、流量重置、月付；再用一个月验证晚高峰。 |
+| [机场订阅是什么、为什么会失效](docs/rumen/机场订阅是什么-为什么会失效.md) | 机场订阅是一条返回节点列表的链接。失效有四种：类型拿错、套餐到期或被重置、订阅地址访问不到、外传触发风控。四种的修法各不相同。 |
+| [梯子软件哪个好用：按设备选客户端](docs/rumen/梯子软件哪个好用-按设备选客户端.md) | 梯子软件只是客户端，本身不带节点。按设备和机场给的订阅格式选：Clash 订阅配 Clash 系，通用订阅配 v2rayN / v2rayNG。 |
+| [电脑怎么挂梯子：Windows 与 Mac](docs/rumen/电脑怎么挂梯子-Windows与Mac.md) | 电脑挂梯子分两种接管方式：系统代理只管遵守代理设置的软件，TUN（虚拟网卡）接管全部流量。先用系统代理，有软件不走代理再开 TUN。 |
+| [科学上网是什么：要准备哪三样](docs/rumen/科学上网是什么-要准备哪三样.md) | 科学上网就是让访问境外网站的流量走代理。要准备三样：线路（机场订阅）、客户端、分流规则，缺一样都表现成「上不去」。 |
+| [翻墙加速器和机场的区别](docs/rumen/翻墙加速器和机场的区别.md) | 「加速器」一词指三种东西：游戏加速器、成品翻墙 App、机场。三者用途不同，买错最常见的是拿游戏加速器去看境外网站。 |
 
 ---
 
@@ -766,7 +1048,7 @@ IEPL 指国际以太网专线，同样是运营商专线产品，与 IPLC 定位
 
 **推荐榜顺序**：由编辑决定，**掺入了合作关系**，已在榜单上方与 [关于我们](https://www.jichangyyds.com/about/) 写明。
 
-**本仓库不承诺持续更新。** 数据快照日期 2026-08-23。
+**本仓库不承诺持续更新。** 数据快照日期 2026-10-13。
 完整方法论见 [docs/methodology.md](docs/methodology.md)。
 
 ---
@@ -776,7 +1058,7 @@ IEPL 指国际以太网专线，同样是运营商专线产品，与 IPLC 定位
 - 本清单为信息整理，**不构成购买建议**。所有服务的可用性、价格、条款以其官网为准。
 - 部分链接为推广链接，本站可能因此获得佣金。**这一点影响推荐榜的排序**，已在上方写明；
   **不影响**纯价格表、每 GB 成本表与实测数据表。
-- 机场行业变动频繁，本页数据为 2026-08-23 快照，**可能已经过时**。
+- 机场行业变动频繁，本页数据为 2026-10-13 快照，**可能已经过时**。
 - 请遵守你所在司法辖区的法律法规。
 
 ---

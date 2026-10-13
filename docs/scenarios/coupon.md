@@ -1,6 +1,6 @@
 # 机场优惠码推荐
 
-> 机场优惠码大全 2026｜可用折扣码与自动特惠入口。数据快照 2026-08-23。
+> 机场优惠码大全 2026｜可用折扣码与自动特惠入口。数据快照 2026-10-13。
 
 
 2026 年机场优惠码与折扣码汇总，点击即可复制，含自动特惠入口说明。先讲清楚一件事：优惠码只改变你付多少钱，不会改变节点质量，所以别为了一个码去买本来就不该买的那一家。再讲首单折扣与续费价的区别、年付大额折扣该怎么配合跑路风险评估，避免省了一时反而多花钱。
@@ -18,25 +18,25 @@
 
 | 机场品牌 | 最低月付 | 优惠码 | 券后 | 编辑评分 |
 | --- | ---: | --- | ---: | ---: |
-| [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | ¥20 | `kuajie` | ¥16 | 3.8 |
-| [微风网络](https://www.jichangyyds.com/brands/weifengwangluo/) | ¥27 | `weifeng90` | ¥18.9 | 数据不足 |
-| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | ¥20 | `1FLYYUN` | ¥18 | 4.4 |
+| [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | ¥20 | `kuajie` | ¥16 | 3.6 |
+| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | ¥20 | `1FLYYUN` | ¥18 | 4.3 |
 | [极速Cloud](https://www.jichangyyds.com/brands/jisucloud/) | ¥30 | `ikds88` | — | 数据不足 |
-| [edgenova](https://www.jichangyyds.com/brands/edgenova/) | ¥15 | `EN888` | ¥12.75 | 4.5 |
-| [可信云](https://www.jichangyyds.com/brands/kexinyun/) | ¥15 | `KEXIN85` | ¥12.75 | 4.5 |
-| [速界](https://www.jichangyyds.com/brands/sujie/) | ¥15 | `sj888` | ¥12.75 | 4.5 |
-| [无忧链接](https://www.jichangyyds.com/brands/wuyoulianjie/) | ¥19 | `wuyou666` | ¥12.92 | 数据不足 |
-| [唯兔云](https://www.jichangyyds.com/brands/weituyun/) | ¥19.9 | `rabbit` | ¥17.91 | 4.1 |
-| [二猫云](https://www.jichangyyds.com/brands/ermaoyun/) | ¥20 | `ermao888` | — | 4.2 |
-| [U1S1](https://www.jichangyyds.com/brands/u1s1/) | ¥20 | `U1S1` | ¥17 | 3.9 |
+| [edgenova](https://www.jichangyyds.com/brands/edgenova/) | ¥15 | `EN888` | — | 4.3 |
+| [可信云](https://www.jichangyyds.com/brands/kexinyun/) | ¥15 | `KEXIN85` | ¥12.75 | 4.4 |
+| [速界](https://www.jichangyyds.com/brands/sujie/) | ¥15 | `sj888` | — | 4.3 |
+| [无忧链接](https://www.jichangyyds.com/brands/wuyoulianjie/) | ¥19 | `wuyou666` | — | 数据不足 |
+| [唯兔云](https://www.jichangyyds.com/brands/weituyun/) | ¥19.9 | `rabbit` | ¥17.91 | 4.0 |
 | [暮光加速](https://www.jichangyyds.com/brands/muguang/) | ¥20 | `mm88` | — | 数据不足 |
+| [二猫云](https://www.jichangyyds.com/brands/ermaoyun/) | ¥20 | `ermao888` | — | 4.1 |
+| [U1S1](https://www.jichangyyds.com/brands/u1s1/) | ¥20 | `U1S1` | — | 3.7 |
 | [灵动云](https://www.jichangyyds.com/brands/lingdongyun/) | ¥20 | `ld88` | — | 数据不足 |
-| [闪跃](https://www.jichangyyds.com/brands/shanyue/) | ¥24 | `shanyue` | ¥19.2 | 3.6 |
+| [闪跃](https://www.jichangyyds.com/brands/shanyue/) | ¥24 | `shanyue` | — | 3.2 |
 | [隐形人](https://www.jichangyyds.com/brands/yinxingren/) | ¥24 | `yxr888` | — | 数据不足 |
-| [星岛梦](https://www.jichangyyds.com/brands/xingdaomeng/) | ¥25 | `nmw888` | ¥22.5 | 4.0 |
+| [榴莲云](https://www.jichangyyds.com/brands/liulianyun/) | ¥24 | `ll88` | — | 数据不足 |
+| [Firefly](https://www.jichangyyds.com/brands/firefly/) | ¥25 | `firefly` | — | 数据不足 |
+| [星岛梦](https://www.jichangyyds.com/brands/xingdaomeng/) | ¥25 | `nmw888` | ¥22.5 | 3.9 |
 | [sogo云](https://www.jichangyyds.com/brands/sogoyun/) | ¥25 | `SOGO88` | ¥22 | 4.1 |
 | [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | ¥25 | `YUZHOU553` | ¥20 | 4.2 |
-| [Firefly](https://www.jichangyyds.com/brands/firefly/) | ¥25 | `firefly` | ¥20 | 数据不足 |
 | [FlyV](https://www.jichangyyds.com/brands/flyv/) | ¥25 | `fly20` | — | 数据不足 |
 | [梯子云](https://www.jichangyyds.com/brands/tiziyun/) | ¥25 | `tiziyun` | — | 数据不足 |
 | [浪网](https://www.jichangyyds.com/brands/langwang/) | ¥30 | `lw88` | — | 数据不足 |

@@ -1,6 +1,6 @@
 # Clash 订阅导入完整教程：Verge、Meta 与规则分流配置
 
-> Clash Verge Rev 与 Clash Meta（Mihomo）的订阅导入完整步骤，从拿到订阅链接到能正常上网一步不省：内核怎么选、策略组和规则分流怎么配、节点的地区与倍率标记怎么读、自动更新怎么设，以及导入失败时按顺序走的五步排查。另附各平台差异说明与订阅长期不更新时该查哪几项。
+> 从拿到订阅链接到节点能用，一共四步。本文给 Clash Verge Rev 与 Mihomo 的完整导入流程，以及导入失败最常见的四个原因。
 >
 > 发布 2026-07-05｜原文：[https://www.jichangyyds.com/blog/clash-daoru-dingyue-jiaocheng/](https://www.jichangyyds.com/blog/clash-daoru-dingyue-jiaocheng/)
 

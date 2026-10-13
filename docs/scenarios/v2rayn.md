@@ -1,6 +1,6 @@
 # v2rayN 机场推荐
 
-> v2rayN 机场推荐 2026｜Windows 用户适合哪些机场订阅。数据快照 2026-08-23。
+> v2rayN 机场推荐 2026｜Windows 用户适合哪些机场订阅。数据快照 2026-10-13。
 
 
 Windows 端 v2rayN 与安卓端 v2rayNG 该怎么选机场：订阅链接怎么导入、VMess / VLESS / Hysteria2 协议的兼容情况，以及哪些机场的订阅格式对 v2rayN 更友好。附在营品牌与优惠码。
@@ -18,30 +18,30 @@ Windows 端 v2rayN 与安卓端 v2rayNG 该怎么选机场：订阅链接怎么�
 
 | 机场品牌 | 最低月付 | 优惠码 | 券后 | 编辑评分 |
 | --- | ---: | --- | ---: | ---: |
-| [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | ¥20 | `kuajie` | ¥16 | 3.8 |
-| [微风网络](https://www.jichangyyds.com/brands/weifengwangluo/) | ¥27 | `weifeng90` | ¥18.9 | 数据不足 |
-| [飞猫云](https://www.jichangyyds.com/brands/feimaoyun/) | ¥25 | — | — | 3.7 |
+| [跨界云](https://www.jichangyyds.com/brands/kuajieyun/) | ¥20 | `kuajie` | ¥16 | 3.6 |
+| [微风网络](https://www.jichangyyds.com/brands/weifengwangluo/) | ¥27 | — | — | 数据不足 |
+| [飞猫云](https://www.jichangyyds.com/brands/feimaoyun/) | ¥25 | — | — | 3.6 |
 | [拼好连](https://www.jichangyyds.com/brands/pinhaolian/) | ¥9.9 | — | — | 数据不足 |
-| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | ¥20 | `1FLYYUN` | ¥18 | 4.4 |
+| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | ¥20 | `1FLYYUN` | ¥18 | 4.3 |
 | [极速Cloud](https://www.jichangyyds.com/brands/jisucloud/) | ¥30 | `ikds88` | — | 数据不足 |
-| [动力港](https://www.jichangyyds.com/brands/dongligang/) | ¥8 | — | — | 3.2 |
-| [edgenova](https://www.jichangyyds.com/brands/edgenova/) | ¥15 | `EN888` | ¥12.75 | 4.5 |
-| [可信云](https://www.jichangyyds.com/brands/kexinyun/) | ¥15 | `KEXIN85` | ¥12.75 | 4.5 |
-| [快狸](https://www.jichangyyds.com/brands/kuaili/) | ¥15 | — | — | 4.4 |
-| [速界](https://www.jichangyyds.com/brands/sujie/) | ¥15 | `sj888` | ¥12.75 | 4.5 |
-| [光速云](https://www.jichangyyds.com/brands/guangsuyun/) | ¥17 | — | — | 4.3 |
-| [极连云](https://www.jichangyyds.com/brands/jilianyun/) | ¥18 | — | — | 4.3 |
-| [光年梯](https://www.jichangyyds.com/brands/guangnianti/) | ¥18 | — | — | 4.4 |
-| [无忧链接](https://www.jichangyyds.com/brands/wuyoulianjie/) | ¥19 | `wuyou666` | ¥12.92 | 数据不足 |
-| [唯兔云](https://www.jichangyyds.com/brands/weituyun/) | ¥19.9 | `rabbit` | ¥17.91 | 4.1 |
-| [二猫云](https://www.jichangyyds.com/brands/ermaoyun/) | ¥20 | `ermao888` | — | 4.2 |
-| [全球云](https://www.jichangyyds.com/brands/quanqiuyun/) | ¥20 | — | — | 3.5 |
-| [U1S1](https://www.jichangyyds.com/brands/u1s1/) | ¥20 | `U1S1` | ¥17 | 3.9 |
-| [暮光加速](https://www.jichangyyds.com/brands/muguang/) | ¥20 | `mm88` | — | 数据不足 |
-| [灵动云](https://www.jichangyyds.com/brands/lingdongyun/) | ¥20 | `ld88` | — | 数据不足 |
-| [闪跃](https://www.jichangyyds.com/brands/shanyue/) | ¥24 | `shanyue` | ¥19.2 | 3.6 |
-| [隐形人](https://www.jichangyyds.com/brands/yinxingren/) | ¥24 | `yxr888` | — | 数据不足 |
-| [星岛梦](https://www.jichangyyds.com/brands/xingdaomeng/) | ¥25 | `nmw888` | ¥22.5 | 4.0 |
+| [杏花云](https://www.jichangyyds.com/brands/xinghuayun/) | ¥3 | — | — | 数据不足 |
+| [宝云](https://www.jichangyyds.com/brands/baoyun/) | ¥4 | — | — | 数据不足 |
+| [鲤云](https://www.jichangyyds.com/brands/liyun/) | ¥5 | — | — | 数据不足 |
+| [AndyCloud](https://www.jichangyyds.com/brands/andycloud/) | ¥5 | — | — | 数据不足 |
+| [财路云](https://www.jichangyyds.com/brands/cailuyun/) | ¥6 | — | — | 数据不足 |
+| [九云](https://www.jichangyyds.com/brands/jiuyun/) | ¥6 | — | — | 数据不足 |
+| [锦云](https://www.jichangyyds.com/brands/jinyun/) | ¥6 | — | — | 数据不足 |
+| [动力港](https://www.jichangyyds.com/brands/dongligang/) | ¥8 | — | — | 2.9 |
+| [秒秒云](https://www.jichangyyds.com/brands/miaomiaoyun/) | ¥9 | — | — | 数据不足 |
+| [山水云](https://www.jichangyyds.com/brands/shanshuiyun/) | ¥12 | — | — | 数据不足 |
+| [edgenova](https://www.jichangyyds.com/brands/edgenova/) | ¥15 | `EN888` | — | 4.3 |
+| [可信云](https://www.jichangyyds.com/brands/kexinyun/) | ¥15 | `KEXIN85` | ¥12.75 | 4.4 |
+| [快狸](https://www.jichangyyds.com/brands/kuaili/) | ¥15 | — | — | 4.3 |
+| [速界](https://www.jichangyyds.com/brands/sujie/) | ¥15 | `sj888` | — | 4.3 |
+| [光速云](https://www.jichangyyds.com/brands/guangsuyun/) | ¥17 | — | — | 4.2 |
+| [极连云](https://www.jichangyyds.com/brands/jilianyun/) | ¥18 | — | — | 4.2 |
+| [光年梯](https://www.jichangyyds.com/brands/guangnianti/) | ¥18 | — | — | 4.3 |
+| [无忧链接](https://www.jichangyyds.com/brands/wuyoulianjie/) | ¥19 | `wuyou666` | — | 数据不足 |
 
 ---
 
